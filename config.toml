@@ -1,0 +1,73 @@
+# Page settings
+baseurl = "https://digital-austria.at/"
+languageCode = "de-at"
+title = "digital.austria"
+copyright = "© 2023 digital.austria"
+#googleAnalytics = "UA-xxxxxxxx-x"
+disableKinds = ["taxonomy", "taxonomyTerm"]
+theme = "doors"
+
+disableRSS = false
+disableSitemap = false
+disable404 = false
+
+# Site information
+[params]
+description = ""
+ogimage = "images/digital.austria_transparent.png"
+
+# Project section
+[params.projects]
+
+[[params.projects.list]]
+title = ""
+url = "#"
+description = ""
+image = "images/digital.austria_transparent.png"
+w = "947"
+h = "100"
+
+# Subproject section
+[params.subprojects]
+
+[[params.subprojects.list]]
+title = ""
+url = "#"
+description = ""
+image = "images/coderdojo-wien.png"
+w = "500"
+h = "500"
+
+[[params.subprojects.list]]
+title = ""
+url = "#"
+description = "Coming soon"
+image = "images/coderdojo-tulln.png"
+w = "500"
+h = "500"
+
+# [[params.subprojects.list]]
+# title = "The work 3"
+# url = "#"
+# description = "Consectetur adipiscing elit"
+# image = "images/work3.jpg"
+# w = "780"
+# h = "518"
+
+# [[params.subprojects.list]]
+# title = "The work 4"
+# url = "#"
+# description = "Sed do eiusmod tempor incididunt"
+# image = "images/work4.jpg"
+# w = "780"
+# h = "518"
+
+# Contact section
+[params.contact]
+description = "We would like to hear from you. Please contact us via email or social media."
+# twitter = "#"
+# facebook = ""
+linkedin = "https://www.linkedin.com/company/digital-austria"
+instagram = "https://www.instagram.com/coderdojowien/"
+github = "https://github.com/coderdojo-wien"
+email = "mailto:hallo@digital-austria.at"
