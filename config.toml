@@ -32,7 +32,7 @@ h = "100"
 
 [[params.subprojects.list]]
 title = ""
-url = "#"
+url = "https://wien.coderdojo.net"
 description = ""
 image = "images/coderdojo-wien.png"
 w = "500"
