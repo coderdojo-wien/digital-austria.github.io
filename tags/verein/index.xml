@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>verein on digital.austria</title>
+    <link>https://digital-austria.at/tags/verein/</link>
+    <description>Recent content in verein on digital.austria</description>
+    <image>
+      <title>digital.austria</title>
+      <url>https://digital-austria.at/img/digital.austria_transparent.png</url>
+      <link>https://digital-austria.at/img/digital.austria_transparent.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-at</language>
+    <lastBuildDate>Thu, 29 Dec 2022 15:29:30 +0100</lastBuildDate><atom:link href="https://digital-austria.at/tags/verein/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Impressum &amp; Offenlegung</title>
+      <link>https://digital-austria.at/page/imprint/</link>
+      <pubDate>Thu, 29 Dec 2022 15:29:30 +0100</pubDate>
+      
+      <guid>https://digital-austria.at/page/imprint/</guid>
+      <description>Medieninhaber und Herausgeber dieser Website digital.austria – Verein zur Förderung der Informationstechnologie Obmann: DI Mag. Daniel Wagner
+Bahnweg 3 Haus 1 3425 Langenlebarn Austria
+E-Mail hallo@digital-austria.at
+Rechtsform: Eintragener Verein Vereinssitz: Langenlebarn, Austria Vereinsregister Nummer: 1014456765 Vereinsstatuten: Vereinsstatuten Vereinsregisterauszug: Vereinsregisterauszug \
+Zuständige Behörde: Bezirkshauptmannschaft Tulln
+Vereinszweck Der Verein, dessen Tätigkeit nicht auf Gewinn gerichtet ist, bezweckt die Förderung der Kenntnisse der Allgemeinheit über Informationstechnologie im Allgemeinen und Softwareentwicklung im Speziellen.
+Datenschutz Wir sammeln Nutzungsdaten mithilfe von Google Analytics, um den Website-Traffic zu visualisieren.</description>
+    </item>
+    
+  </channel>
+</rss>

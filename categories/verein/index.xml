@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>digital.austria</title>
-    <link>https://digital-austria.at/</link>
-    <description>Recent content on digital.austria</description>
+    <title>verein on digital.austria</title>
+    <link>https://digital-austria.at/categories/verein/</link>
+    <description>Recent content in verein on digital.austria</description>
     <image>
       <title>digital.austria</title>
       <url>https://digital-austria.at/img/digital.austria_transparent.png</url>
@@ -11,34 +11,7 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-at</language>
-    <lastBuildDate>Sun, 19 Mar 2023 00:14:46 +0100</lastBuildDate><atom:link href="https://digital-austria.at/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>WAFF</title>
-      <link>https://digital-austria.at/projects/waff/</link>
-      <pubDate>Sun, 19 Mar 2023 00:14:46 +0100</pubDate>
-      
-      <guid>https://digital-austria.at/projects/waff/</guid>
-      <description>CoderDojo kooperiert regelmäßig mit dem WAFF</description>
-    </item>
-    
-    <item>
-      <title>CoderDojo Tulln</title>
-      <link>https://digital-austria.at/dojos/tulln/</link>
-      <pubDate>Fri, 30 Dec 2022 08:58:46 +0100</pubDate>
-      
-      <guid>https://digital-austria.at/dojos/tulln/</guid>
-      <description>CoderDojo is a club for kids and teens who want to learn programming and have fun.</description>
-    </item>
-    
-    <item>
-      <title>CoderDojo Wien</title>
-      <link>https://digital-austria.at/dojos/wien/</link>
-      <pubDate>Fri, 30 Dec 2022 08:58:46 +0100</pubDate>
-      
-      <guid>https://digital-austria.at/dojos/wien/</guid>
-      <description>CoderDojo is a club for kids and teens who want to learn programming and have fun.</description>
-    </item>
-    
+    <lastBuildDate>Mon, 02 Jan 2023 22:14:00 +0100</lastBuildDate><atom:link href="https://digital-austria.at/categories/verein/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Über uns</title>
       <link>https://digital-austria.at/page/about/</link>
@@ -76,7 +49,6 @@ Zuständige Behörde: Bezirkshauptmannschaft Tulln
 Vereinszweck Der Verein, dessen Tätigkeit nicht auf Gewinn gerichtet ist, bezweckt die Förderung der Kenntnisse der Allgemeinheit über Informationstechnologie im Allgemeinen und Softwareentwicklung im Speziellen.
 Datenschutz Wir sammeln Nutzungsdaten mithilfe von Google Analytics, um den Website-Traffic zu visualisieren.</description>
     </item>
-    
     
   </channel>
 </rss>
