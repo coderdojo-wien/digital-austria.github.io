@@ -1,3 +1,6 @@
 [submodule "themes/doors"]
-	path = themes/doors
+	path = back/themes/doors
 	url = https://github.com/zzzmisa/hugo-theme-doors.git
+[submodule "themes/PaperMod"]
+	path = themes/PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
