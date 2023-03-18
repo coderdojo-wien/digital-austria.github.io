@@ -11,7 +11,7 @@ enableRobotsTXT: true
 # buildFuture: false
 # buildExpired: false
 
-# googleAnalytics: XYZabc
+googleAnalytics: G-P3R7P2EW0F
 
 minify:
   disableXML: true
