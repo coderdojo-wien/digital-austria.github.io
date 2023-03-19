@@ -22,7 +22,7 @@ Teilnehmen können Kinder und Jugendliche im Alter von 8 bis 17 Jahren. Es sind 
 
 Kinder unter 13 Jahren müssen von einem Erwachsenen begleitet werden.
 
-Zur Zeit gibt es jeden Freitag virtuelle CoderDojos von unseren Freunden des CoderDojo Linzan denen du vie Zoom teilnehmen kannst.
+Zur Zeit gibt es jeden Freitag virtuelle CoderDojos von unseren Freunden des CoderDojo Linz an denen du vie Zoom teilnehmen kannst.
 
 Einmal im Monat gibt es persönliche Treffen in der Grand Garage. Für diese ist eine Anmeldung erforderlich.
 
