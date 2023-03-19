@@ -29,7 +29,7 @@ Rechtsform: Eintragener Verein \
 Vereinssitz: Langenlebarn, Austria \
 Vereinsregister Nummer: 1014456765 \
 Vereinsstatuten:  [Vereinsstatuten](/documents/vereinsstatuten.pdf) \
-Vereinsregisterauszug: [Vereinsregisterauszug](/documents/vereinsregisterauszug.pdf) \
+Vereinsregisterauszug: [Vereinsregisterauszug](/documents/vereinsregisterauszug.pdf)
 
 Zuständige Behörde: Bezirkshauptmannschaft Tulln
 
