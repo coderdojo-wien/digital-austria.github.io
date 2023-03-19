@@ -19,11 +19,11 @@ minify:
 
 params:
   # env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: digitial.austria
+  title: digital.austria
   description: "digital.austria - Verein zur Förderung der Informationstechnologie. Wir sind die Initiatoren von CoderDojo Tulln und CoderDojo Wien."
   keywords: [Blog, "Coding for Kids", "Programmieren für Kinder", "CoderDojo", "Tulln", "Wien", "Software", "Scratch", "micro:bit", "Python", ".Net", "Java", "C#", "Make Code"]
-  # author: Me
-  author: ["Daniel", "Carlo", "Rigerta", "Kathi"] # multiple authors
+  author: Me
+  # author: ["Daniel", "Carlo", "Rigerta", "Kathi"] # multiple authors
   images: ["/img/digital.austria_transparent.png", "/img/profile-image.web", "/img/logo.webp", "/img/coderdojo-tulln.png", "/img/coderdojo-wien.png"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
