@@ -124,8 +124,8 @@ params:
   
 
   editPost:
-    URL: "https://github.com/danielwagnerEU/danielwagnereu.github.io/blob/main/content"
-    Text: "Suggest Changes" # edit text
+    URL: "https://github.com/coderdojo-wien/digital-austria.github.io/blob/main/content"
+    Text: "Ändern" # edit text
     appendFilePath: true # to append file path to Edit link
 
   # for search
