@@ -82,7 +82,7 @@ params:
     subImages:
       - imageTitle: "CoderDojo Wien"
         imageUrl: "img/coderdojo-wien.webp"
-        url: "dojos/wien"
+        url: "https://wien.coderdojo.net"
         width: 400
         height: 400
       - imageTitle: "CoderDojo Tulln"
