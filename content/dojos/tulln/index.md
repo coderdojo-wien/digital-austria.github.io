@@ -1,7 +1,7 @@
 ---
 title: "CoderDojo Tulln"
 description: "Das CoderDojo ist ein Club für Kinder und Jugendliche, die programmieren lernen und Spaß haben wollen"
-date: 2022-12-30T08:58:46+01:00
+date: 2023-03-23T11:51:46+01:00
 draft: false
 categories:
 - dojo
