@@ -15,7 +15,7 @@ googleAnalytics: G-P3R7P2EW0F
 
 minify:
   disableXML: true
-  minifyOutput: true
+  minifyOutput: false
 
 params:
   # env: production # to enable google analytics, opengraph, twitter-cards and schema.
@@ -73,7 +73,7 @@ params:
     imageHeight: 250
     imageTitle: "Logo von digital.austria"
     buttons:
-      - name: about
+      - name: über uns
         url: page/about
       - name: übungen
         url: https://coderdojo-linz.github.io/uebungsanleitungen/
@@ -82,7 +82,7 @@ params:
     subImages:
       - imageTitle: "CoderDojo Wien"
         imageUrl: "img/coderdojo-wien.webp"
-        url: "https://wien.coderdojo.net"
+        url: "dojos/wien"
         width: 400
         height: 400
       - imageTitle: "CoderDojo Tulln"
@@ -177,7 +177,7 @@ menu:
       url: /posts/
       weight: 40
     - identifier: categories
-      name: categories
+      name: kategorien
       url: /categories/
       weight: 50
     - identifier: tags
@@ -185,7 +185,7 @@ menu:
       url: /tags/
       weight: 60
     - identifier: search
-      name: search
+      name: suche
       url: /search
       weight: 70
     # - identifier: example
