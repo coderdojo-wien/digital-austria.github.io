@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://digital-austria.at/dojos/tulln/</loc>
+    <lastmod>2023-03-23T11:51:48+01:00</lastmod>
+  </url><url>
     <loc>https://digital-austria.at/projects/waff/</loc>
     <lastmod>2023-03-19T00:22:37+01:00</lastmod>
-  </url><url>
-    <loc>https://digital-austria.at/dojos/tulln/</loc>
-    <lastmod>2023-03-23T11:51:00+01:00</lastmod>
   </url><url>
     <loc>https://digital-austria.at/dojos/wien/</loc>
     <lastmod>2023-03-19T00:22:37+01:00</lastmod>
@@ -20,11 +20,26 @@
     <loc>https://digital-austria.at/page/imprint/</loc>
     <lastmod>2023-03-19T01:16:21+01:00</lastmod>
   </url><url>
+    <loc>https://digital-austria.at/categories/</loc>
+    <lastmod>2023-03-23T11:51:48+01:00</lastmod>
+  </url><url>
     <loc>https://digital-austria.at/tags/coderdojo/</loc>
-    <lastmod>2023-03-23T11:51:00+01:00</lastmod>
+    <lastmod>2023-03-23T11:51:48+01:00</lastmod>
   </url><url>
     <loc>https://digital-austria.at/</loc>
-    <lastmod>2023-03-23T11:51:00+01:00</lastmod>
+    <lastmod>2023-03-23T11:51:48+01:00</lastmod>
+  </url><url>
+    <loc>https://digital-austria.at/categories/dojo/</loc>
+    <lastmod>2023-03-23T11:51:48+01:00</lastmod>
+  </url><url>
+    <loc>https://digital-austria.at/dojos/</loc>
+    <lastmod>2023-03-23T11:51:48+01:00</lastmod>
+  </url><url>
+    <loc>https://digital-austria.at/tags/</loc>
+    <lastmod>2023-03-23T11:51:48+01:00</lastmod>
+  </url><url>
+    <loc>https://digital-austria.at/tags/tulln/</loc>
+    <lastmod>2023-03-23T11:51:48+01:00</lastmod>
   </url><url>
     <loc>https://digital-austria.at/tags/jugendliche/</loc>
     <lastmod>2023-03-19T00:22:37+01:00</lastmod>
@@ -32,17 +47,11 @@
     <loc>https://digital-austria.at/projects/</loc>
     <lastmod>2023-03-19T00:22:37+01:00</lastmod>
   </url><url>
-    <loc>https://digital-austria.at/tags/</loc>
-    <lastmod>2023-03-23T11:51:00+01:00</lastmod>
-  </url><url>
     <loc>https://digital-austria.at/tags/waff/</loc>
     <lastmod>2023-03-19T00:22:37+01:00</lastmod>
   </url><url>
     <loc>https://digital-austria.at/tags/wien/</loc>
     <lastmod>2023-03-19T00:22:37+01:00</lastmod>
-  </url><url>
-    <loc>https://digital-austria.at/categories/</loc>
-    <lastmod>2023-03-23T11:51:00+01:00</lastmod>
   </url><url>
     <loc>https://digital-austria.at/page/</loc>
     <lastmod>2023-03-19T07:27:48+01:00</lastmod>
@@ -58,15 +67,6 @@
   </url><url>
     <loc>https://digital-austria.at/categories/verein/</loc>
     <lastmod>2023-03-19T07:27:48+01:00</lastmod>
-  </url><url>
-    <loc>https://digital-austria.at/categories/dojo/</loc>
-    <lastmod>2023-03-23T11:51:00+01:00</lastmod>
-  </url><url>
-    <loc>https://digital-austria.at/dojos/</loc>
-    <lastmod>2023-03-23T11:51:00+01:00</lastmod>
-  </url><url>
-    <loc>https://digital-austria.at/tags/tulln/</loc>
-    <lastmod>2023-03-23T11:51:00+01:00</lastmod>
   </url><url>
     <loc>https://digital-austria.at/tags/haftungsausschlu%C3%9F/</loc>
     <lastmod>2023-03-19T01:16:21+01:00</lastmod>

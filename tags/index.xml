@@ -11,13 +11,22 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-at</language>
-    <lastBuildDate>Sun, 19 Mar 2023 00:14:46 +0100</lastBuildDate><atom:link href="https://digital-austria.at/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 23 Mar 2023 11:51:46 +0100</lastBuildDate><atom:link href="https://digital-austria.at/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>coderdojo</title>
       <link>https://digital-austria.at/tags/coderdojo/</link>
-      <pubDate>Sun, 19 Mar 2023 00:14:46 +0100</pubDate>
+      <pubDate>Thu, 23 Mar 2023 11:51:46 +0100</pubDate>
       
       <guid>https://digital-austria.at/tags/coderdojo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tulln</title>
+      <link>https://digital-austria.at/tags/tulln/</link>
+      <pubDate>Thu, 23 Mar 2023 11:51:46 +0100</pubDate>
+      
+      <guid>https://digital-austria.at/tags/tulln/</guid>
       <description></description>
     </item>
     
@@ -72,15 +81,6 @@
       <pubDate>Mon, 02 Jan 2023 22:14:00 +0100</pubDate>
       
       <guid>https://digital-austria.at/tags/unterst%C3%BCtzung/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tulln</title>
-      <link>https://digital-austria.at/tags/tulln/</link>
-      <pubDate>Fri, 30 Dec 2022 08:58:46 +0100</pubDate>
-      
-      <guid>https://digital-austria.at/tags/tulln/</guid>
       <description></description>
     </item>
     
