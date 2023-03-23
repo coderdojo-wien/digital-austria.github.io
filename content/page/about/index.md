@@ -24,6 +24,6 @@ Kinder unter 13 Jahren müssen von einem Erwachsenen begleitet werden.
 
 Zur Zeit gibt es jeden Freitag virtuelle CoderDojos von unseren Freunden des CoderDojo Linz an denen du vie Zoom teilnehmen kannst.
 
-Einmal im Monat gibt es persönliche Treffen in der Grand Garage. Für diese ist eine Anmeldung erforderlich.
+Es gibt in [Wien]({{< relref "/dojos/wien" >}}) jede zweite Woche und in [Tulln]({{< relref "/dojos/tulln" >}}) einmal in Montag ein persönliches Treffen zum gemeinsamen Programmieren. Für diese ist eine Anmeldung erforderlich.
 
 <!-- ![Logo von digital.austria](/img/logo.webp#center "Logo von digital.austria") -->
