@@ -17,9 +17,10 @@ cover:
 weight: 10
 ---
 
-Endlich können wir im März 2023 auch das CoderDojo Tulln starten!
+Endlich können wir im März 2023 auch das CoderDojo Tulln starten! Eine Übersicht sowie auch eine Anmeldemöglichkeit unserer nächsten Dojos findest du bei [Eventbrite](https://www.eventbrite.at/o/coderdojo-tulln-by-digitalaustria-62378201123).
 
-![Teilnehmer des Dojo probieren ihre mit einem Micro:bit entwickelten Spiele aus](dojo.jpg#center "Micro:bit beim Dojo")
+{{< figure src="dojo.jpg" alt="Teilnehmer des Dojo probieren ihre mit einem Micro:bit entwickelten Spiele aus" title="Micro:bit beim Dojo" caption="Teilnehmer des Dojo probieren ihre mit einem Micro:bit entwickelten Spiele aus" >}}
+
 
 Nach unserem Auftakt mit einem Dojo am 24. März planen wir monatliche weitere Dojos, jeweils am vorletzten oder letzten Freitag des Monats.
 
