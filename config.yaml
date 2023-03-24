@@ -79,6 +79,8 @@ params:
         url: https://coderdojo-linz.github.io/uebungsanleitungen/
       - name: sponsor
         url: page/sponsor
+      - name: newsletter
+        url: "http://eepurl.com/inFeMY"
     subImages:
       - imageTitle: "CoderDojo Wien"
         imageUrl: "img/coderdojo-wien.webp"
@@ -100,6 +102,9 @@ params:
   socialIcons:
     - name: email
       url: "mailto:hallo@digital-austria.at"
+    # - name: cv
+    #   title: Newsletter
+    #   url: "http://eepurl.com/inFeMY"
     - name: github
       url: "https://github.com/coderdojo-wien"
     - name: linkedin
