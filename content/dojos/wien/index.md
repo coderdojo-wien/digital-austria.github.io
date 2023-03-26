@@ -9,7 +9,7 @@ tags:
 - coderdojo
 - wien
 cover:
-    image: "/im/coderdojo-wien.webp"
+    image: "/img/coderdojo-wien.webp"
     alt: "CoderDojo Wien"
     caption: "Logo of CoderDojo Wien"
     relative: true
