@@ -11,7 +11,43 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-at</language>
-    <lastBuildDate>Mon, 02 Jan 2023 22:14:00 +0100</lastBuildDate><atom:link href="https://digital-austria.at/categories/verein/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Mar 2023 18:23:00 +0200</lastBuildDate><atom:link href="https://digital-austria.at/categories/verein/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Informationen für Eltern</title>
+      <link>https://digital-austria.at/infos/eltern/</link>
+      <pubDate>Sun, 26 Mar 2023 18:23:00 +0200</pubDate>
+      
+      <guid>https://digital-austria.at/infos/eltern/</guid>
+      <description>In der weltweiten CoderDojo Gemeinschaft bieten Freiwillige Programmierclubs für Kinder und Jugendliche an. Dort wird spielerisch Technologie entdeckt.</description>
+    </item>
+    
+    <item>
+      <title>Informationen für Kinder und Jugendliche</title>
+      <link>https://digital-austria.at/infos/kinder-und-jugendliche/</link>
+      <pubDate>Sun, 26 Mar 2023 18:23:00 +0200</pubDate>
+      
+      <guid>https://digital-austria.at/infos/kinder-und-jugendliche/</guid>
+      <description>Wolltest du immer schon wissen, wie Computer, iPad oder Smartphone funktionieren? Möchtest du Computerspiele nicht nur spielen sondern selbst programmieren?</description>
+    </item>
+    
+    <item>
+      <title>Informationen für Mentoren</title>
+      <link>https://digital-austria.at/infos/mentoren/</link>
+      <pubDate>Sun, 26 Mar 2023 18:23:00 +0200</pubDate>
+      
+      <guid>https://digital-austria.at/infos/mentoren/</guid>
+      <description>Du kannst gut programmieren oder bist ein Elektronik-Crack? Dann brauchen wir dich als Mentor.</description>
+    </item>
+    
+    <item>
+      <title>Informationen für Schulen</title>
+      <link>https://digital-austria.at/infos/schulen/</link>
+      <pubDate>Sun, 26 Mar 2023 18:23:00 +0200</pubDate>
+      
+      <guid>https://digital-austria.at/infos/schulen/</guid>
+      <description>Wir kommen auch gerne zu euch in die Schule</description>
+    </item>
+    
     <item>
       <title>Über uns</title>
       <link>https://digital-austria.at/page/about/</link>

@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Projects on digital.austria</title>
+    <title>Projekte on digital.austria</title>
     <link>https://digital-austria.at/projects/</link>
-    <description>Recent content in Projects on digital.austria</description>
+    <description>Recent content in Projekte on digital.austria</description>
     <image>
       <title>digital.austria</title>
       <url>https://digital-austria.at/img/digital.austria_transparent.png</url>
       <link>https://digital-austria.at/img/digital.austria_transparent.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>de-at</language>
-    <lastBuildDate>Sun, 19 Mar 2023 00:14:46 +0100</lastBuildDate><atom:link href="https://digital-austria.at/projects/index.xml" rel="self" type="application/rss+xml" />
+    <language>de-at</language><atom:link href="https://digital-austria.at/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>WAFF</title>
       <link>https://digital-austria.at/projects/waff/</link>

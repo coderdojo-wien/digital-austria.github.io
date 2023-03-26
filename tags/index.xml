@@ -11,13 +11,31 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-at</language>
-    <lastBuildDate>Thu, 23 Mar 2023 11:51:46 +0100</lastBuildDate><atom:link href="https://digital-austria.at/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Mar 2023 18:23:00 +0200</lastBuildDate><atom:link href="https://digital-austria.at/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>coderdojo</title>
       <link>https://digital-austria.at/tags/coderdojo/</link>
-      <pubDate>Thu, 23 Mar 2023 11:51:46 +0100</pubDate>
+      <pubDate>Sun, 26 Mar 2023 18:23:00 +0200</pubDate>
       
       <guid>https://digital-austria.at/tags/coderdojo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>schule</title>
+      <link>https://digital-austria.at/tags/schule/</link>
+      <pubDate>Sun, 26 Mar 2023 18:23:00 +0200</pubDate>
+      
+      <guid>https://digital-austria.at/tags/schule/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>unterstützung</title>
+      <link>https://digital-austria.at/tags/unterst%C3%BCtzung/</link>
+      <pubDate>Sun, 26 Mar 2023 18:23:00 +0200</pubDate>
+      
+      <guid>https://digital-austria.at/tags/unterst%C3%BCtzung/</guid>
       <description></description>
     </item>
     
@@ -72,15 +90,6 @@
       <pubDate>Mon, 02 Jan 2023 22:14:00 +0100</pubDate>
       
       <guid>https://digital-austria.at/tags/sponsoring/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>unterstützung</title>
-      <link>https://digital-austria.at/tags/unterst%C3%BCtzung/</link>
-      <pubDate>Mon, 02 Jan 2023 22:14:00 +0100</pubDate>
-      
-      <guid>https://digital-austria.at/tags/unterst%C3%BCtzung/</guid>
       <description></description>
     </item>
     
