@@ -141,9 +141,9 @@ params:
     #   SiteVerificationTag: "XYZabc"
 
   cover:
-    hidden: true # hide everywhere but not in structured data
-    hiddenInList: true # hide on list pages and home
-    hiddenInSingle: true # hide on single page
+    # hidden: true # hide everywhere but not in structured data
+    # hiddenInList: true # hide on list pages and home
+    # hiddenInSingle: true # hide on single page
     linkFullImages: false
   
 
@@ -173,30 +173,34 @@ menu:
       name: sponsor
       url: /page/sponsor/
       weight: 20
+    - identifier: infos
+      name: infos
+      url: /infos/
+      weight: 30
     - identifier: projects
       name: projekte
       url: /projects/
-      weight: 30
+      weight: 40
     - identifier: posts
       name: posts
       url: /posts/
-      weight: 40
-    - identifier: categories
-      name: kategorien
-      url: /categories/
       weight: 50
-    - identifier: tags
-      name: tags
-      url: /tags/
-      weight: 60
+    # - identifier: categories
+    #   name: kategorien
+    #   url: /categories/
+    #   weight: 60
+    # - identifier: tags
+    #   name: tags
+    #   url: /tags/
+    #   weight: 70
     - identifier: search
       name: suche
       url: /search
-      weight: 70
+      weight: 80
     # - identifier: example
     #   name: example.org
     #   url: https://example.org
-    #   weight: 50
+    #   weight: 90
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
