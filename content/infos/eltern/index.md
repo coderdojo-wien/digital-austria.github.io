@@ -74,7 +74,7 @@ Grundsätzlich ist es aber nicht notwendig Hard- oder Software für Ihr Kind zu 
 
 ## Ist das CoderDojo das Richtige für mein Kind? ##
 
-**Voraussetzung für die Teilnahme am Linzer CoderDojo ist, dass das Kind zwischen 8 und 17 Jahren alt ist. Vorkenntnisse sind nicht notwendig.**
+**Voraussetzung für die Teilnahme an unseren CoderDojos ist, dass das Kind zwischen 8 und 17 Jahren alt ist. Vorkenntnisse sind nicht notwendig.**
 
 Es ist natürlich einfacher, wenn Ihr Kind schon einmal einen Computer bedient hat. Wenn nicht, können wir das aber rasch nachholen. Es ist ausdrücklich nicht Voraussetzung, dass Ihr Kind schon programmieren kann. Gerade das soll es ja im CoderDojo lernen.
 
@@ -104,8 +104,7 @@ Als Programmierclub möchten wir natürlich auch moderne Wege zur Kommunikation 
 
 **Jederzeit.**
 
-Es sind immer mehrere Mentoren anwesend, so können wir sowohl auf Anfänger als auch auf Fortgeschrittene eingehen. Für den ersten Besuch ist eine Anmeldung notwendig. Nach Erhalt eines Mitgliedsausweis ist keine Anmeldung mehr nötig.<br/>
-<p class="text-center"><a class="btn btn-primary" href="/anmeldung.html">Zur Anmeldung&nbsp;...</a></p>
+Es sind immer mehrere Mentoren anwesend, so können wir sowohl auf Anfänger als auch auf Fortgeschrittene eingehen. Für den ersten Besuch ist eine Anmeldung notwendig. Nach Erhalt eines Mitgliedsausweis ist keine Anmeldung mehr nötig.
 
 
 ## <a name="Laptop" />Braucht mein Kind einen Laptop? ##
@@ -117,5 +116,4 @@ Falls ein Kind teilnehmen möchte, das keinen eigenen Laptop mitbringen kann, ne
 
 ## Neugierig geworden?
 
-Falls ja, [melden Sie Ihr Kind zum ersten Besuch beim CoderDojo Linz an](/anmeldung.html) und kommen Sie bei uns vorbei.<br/>
-<p class="text-center"><a class="btn btn-primary" href="/anmeldung.html">Zur Anmeldung&nbsp;...</a></p>
+Falls ja, [melden Sie Ihr Kind zum ersten Besuch beim CoderDojo Linz an](/anmeldung.html) und kommen Sie bei uns vorbei.
