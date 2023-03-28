@@ -59,8 +59,12 @@ Da unsere Mentoren die Dojos in ihrer Freizeit abhalten, freuen wir uns natürli
 ### Mentor
 Du bist technikbegeistert und gibst gern dein Wissen weiter? Dann unterstütze uns als Mentor. Entweder regelmäßig oder punktuell. Oder als Gast-Mentor an speziellen Thementagen. Alles was wir wollen ist dich und deine Zeit.
 
+Du bist interessiert oder hast noch Fragen, dann sieh dir unsere [Informationen für Mentoren]({{< relref "/infos/mentoren" >}}) an oder schreib uns eine E-Mail an [hallo@digital-austria.at](mailto:hallo@digital-austria.at).
+
 ### Helfende Hand
 Bei einem CoderDojo gibt es auch viele Dinge abseits von Programmieren, die zu tun sind. Sei es das Her- und Wegräumen der Bestuhlung, Her- und Wegräumen von Getränken und Obst, Registrierung der Kinder am Anfang jeder Veranstaltung, oder einfach nur als Ansprechperson da sein. Wir freuen uns auf deine Unterstützung durch deine Zeit.
+
+Du bist interessiert oder hast noch Fragen, dann schreib uns eine E-Mail an [hallo@digital-austria.at](mailto:hallo@digital-austria.at)
 
 ### Sachmittelspende
 Du hast deinen funktionierenden Laptop gegen ein neues Gerät ausgetauscht? Wir sind immer auf der Suche nach funktionierenden Laptops, die wir den Kindern als Leihgeräte während der Veranstaltung zur Verfügung stellen können. Oder du verwendest deinen Raspberry Pi nicht mehr? Einfach vorbei bringen.
