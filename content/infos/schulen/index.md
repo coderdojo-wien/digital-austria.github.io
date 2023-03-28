@@ -70,6 +70,6 @@ Wir können maximal 25 Leihlaptops für Gast-CoderDojos anbieten. -->
 
 ### Fotos
 
-Da wir uns über Spenden finanzieren, müssen wir über unsere Aktivitäten berichten. Das machen wir primär über soziale Medien. Insofern machen wir oft Fotos von Veranstaltungen und veröffentliche diesen. Die Schule muss sicherstellen, dass das in Ordnung ist. Falls keine Fotos gemacht werden dürfen, muss uns das vorab mitgeteilt werden.
+Da wir uns über Spenden finanzieren, müssen wir über unsere Aktivitäten berichten. Das machen wir primär über soziale Medien. Insofern machen wir oft Fotos von Veranstaltungen und veröffentliche diese. Die Schule muss sicherstellen, dass das in Ordnung ist. Falls keine Fotos gemacht werden dürfen, muss uns das vorab mitgeteilt werden.
 
 **Wir veröffentlichen keine  Fotos von Kindern und Jugendlichen in Verbindung mit ihren Namen.**
