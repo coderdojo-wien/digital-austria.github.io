@@ -26,7 +26,7 @@ Als Mentoren begleiten wir in [CoderDojos](http://www.coderdojo.com "Internation
 * Vermitteln der Grundlagen für Anfänger.
 * Den Kindern helfen, falls sie an Grenzen stoßen.
 * "Coole" Projektideen vorschlagen, falls die Kinder einmal keine eigenen Ideen mitbringen.
-* Mithelfen bei der Entwicklung von Lern- und Übungsunterlagen (z.B. [Dojo Sushi Cards](http://kata.coderdojo.com/wiki/Sushi "Beschreibung von Dojo Sushi im CoderDojo Wiki")).
+* Mithelfen bei der Entwicklung von Lern- und Übungsunterlagen (z.B. [Dojo Sushi Cards](https://coderdojo-linz.github.io/uebungsanleitungen/ "Dojo Sushi Card")).
 * Und das wichtigste: Kinder für Technik und Programmieren begeistern.
 
 ## Häufige Fragen
@@ -67,4 +67,4 @@ Zumindest die Zeit für das CoderDojo selbst. Wir brauchen aber auch Mentoren, d
 
 **Nimm bitte einfach mit uns [Kontakt](mailto:hallo@digital-austria.at) auf.**
 
-Wir tauschen dann unsere Kontaktdaten aus und besprechen, wie und wann du als Mentor einsteigen kannst.
+Wir tauschen dann unsere Kontaktdaten aus und besprechen, wie und wann du als Mentor einsteigen kannst.<>
