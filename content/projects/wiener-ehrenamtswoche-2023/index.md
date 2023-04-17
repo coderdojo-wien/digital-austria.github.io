@@ -31,6 +31,8 @@ Für Schulen, welche diesmal nicht dabei sein können, haben wir auch noch weite
 
 <!-- [![Logo BRG14](brg14.png#center "Logo BRG14")][brg14] -->
 
+{{< figure src="/img/wienXtra-logo.webp" align="center" alt="WIENXTRA Schulevents" title="WIENXTRA" caption="Schulevents" link="https://www.wienxtra.at/schulevents/wiener-ehrenamtswoche/" >}}
+
 {{< figure src="brg14.webp" align="center" alt="BRG 14 Linzer Straße" title="BRG 14" caption="Linzer Straße" link="https://www.brg14.at/" >}}
 
 {{< figure src="tgm-logo.webp" align="center" alt="TGM Die Schule der Technik" title="TGM" caption="Die Schule der Technik" link="https://www.tgm.ac.at/?page_id=12662" >}}
