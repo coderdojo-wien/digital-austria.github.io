@@ -1,6 +1,6 @@
 ---
 title: "Wiener Ehrenamtswoche 2023"
-description: "Wir bringen digitales Ehrenamt ins Klassenzimmer und vernetzten Schulen und SChüler_innen miteinander"
+description: "Wir bringen digitales Ehrenamt ins Klassenzimmer und vernetzten Schulen und Schüler_innen miteinander"
 author: Daniel
 date: 2023-04-17T12:43:21+02:00
 draft: false
