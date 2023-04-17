@@ -19,6 +19,8 @@ tags:
 
 Engagement für die Gesellschaft, für die Umwelt, für Wien ist gelebte Teilhabe. Kinder und Jugendliche wollen mithelfen und mitgestalten – also unterstützen wir sie!
 
+## Das Projekt
+
 Im Rahmen der [Wiener Ehrenamtswoche](ehrenamtswoche) starten wir heuer ein auch für uns völlig neues Format. Das _CoderDojo Youth for Youth_. Wir bringen Schüler_innen der [Abteilung Informationstechnologie am TGM](tgm) mit einer Klasse des [BRG14](brg14) zusammen.
 
 Unsere Mentor_innen werden den freiwillig teilnehmenden Schüler_innen des TGM dabei helfen ihre ersten eigenen Erfahrungen als ehrenamtliche Mentor_innen zu sammeln. Sie helfen uns dabei einer Klasse des BRG14 einen ersten Einblick in die Welt des Software-Engineerings zu bekommen.
