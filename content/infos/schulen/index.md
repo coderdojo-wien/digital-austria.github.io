@@ -9,7 +9,7 @@ tags:
 - coderdojo
 - schule
 cover:
-    # image: "schulen.jpg"
+    image: "schulen.jpg"
     alt: "Wir kommen auch gerne zu euch in die Schule"
     caption: "Wir kommen auch gerne zu euch in die Schule"
     relative: true
