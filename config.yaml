@@ -1,5 +1,7 @@
 baseURL: "https://digital-austria.at/"
 languageCode: "de-at"
+defaultContentLanguage: "de"
+defaultContentLang: "de"
 title: "digital.austria"
 # copyright: "https://digital-austria.at/"
 paginate: 5
