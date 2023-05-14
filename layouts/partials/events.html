@@ -25,6 +25,9 @@
                     <span itemprop="name">{{ .eventname }}</span>
                     {{ with .eventlink }}</a>{{ end }}
                 </b>
+                {{ with .sessionlink }}
+                <meta itemprop="url" content="{{ . }}" />
+                {{ end }}
               </dt>
               <dd>
                 {{ with .location }}{{ . }}{{ end }}, {{ with .address }}{{ . }}<br/>{{ end }}
