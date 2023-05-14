@@ -1,20 +1,42 @@
 {{"<!-- Events Section -->" | safeHTML}}
 <section id="events">
-    <p>
-        <div class="row">
-            <div class="col-10 mb-3">
-                <h2>Termine</h2>
-            </div>
-            <div class="post-content">
-                <dl>
-                    <dt><b><a href="https://www.eventbrite.at/e/coderdojo-tulln-at-hak-registrierung-622290506657" target="_blank">CoderDojo Tulln</a></b></dt>
-                    <dd>26. Mai 2023, HAK Tulln, Donaulände 64, 3430 Tulln, <a href="https://www.eventbrite.at/e/coderdojo-tulln-at-hak-registrierung-622290506657" target="_blank">Anmeldung</a> </dd>
-
-                    <dt><b><a href="https://www.eventbrite.at/e/coderdojo-wien-at-verbund-am-26523-registrierung-627562445167" target="_blank">CoderDojo Wien</a></b></dt>
-                    <dd>26. Mai 2023, Verbund, Am Hof 6a, 1010 Wien, <a href="https://www.eventbrite.at/e/coderdojo-tulln-at-hak-registrierung-622290506657" target="_blank">Anmeldung</a></dd>
-                </dl>
-            </div>
+    <div class="post-content">
+        <h2>Termine</h2>
+            <dl>
+              {{ $events := $.Site.Data.events }} {{ range $events }}
+              <dt itemprop="event" itemscope itemtype="https://schema.org/Event">
+                <meta itemprop="eventAttendanceMode" content="https://schema.org/OfflineEventAttendanceMode" />
+                <meta itemprop="eventStatus" content="https://schema.org/EventScheduled" />
+                <meta itemprop="name" content="{{ .eventname }}" />
+                <meta itemprop="startDate" content="{{ .startdate }}" />
+                <meta itemprop="endDate" content="{{ .enddate }}" />
+                <div hidden  itemprop="location" itemscope itemtype="http://schema.org/Place">
+                    {{ with .location }}<meta itemprop="name" content="{{ . }}" />{{ end }}
+                    {{ with .address }}<meta itemprop="address" content="{{ . }}" />{{ end }}
+                </div>
+                <div hidden itemprop="organizer" itemscope itemtype="http://schema.org/Organization">
+                    <meta  itemprop="name" content="{{ .organizer }}" />
+                    <meta  itemprop="url" content="{{ .organizerurl }}" />
+                </div>
+                {{ with .image }}<meta itemprop="image" content="{{ . }}" />{{ end }}
+                <b>
+                    {{ .startdate | time.Format "January 2, 2006" }}
+                    {{ with .eventlink }}<a href="{{ . }}" target="_blank">{{ end }}
+                    <span itemprop="name">{{ .eventname }}</span>
+                    {{ with .eventlink }}</a>{{ end }}
+                </b>
+              </dt>
+              <dd>
+                {{ with .location }}{{ . }}{{ end }}, {{ with .address }}{{ . }}<br/>{{ end }}
+                {{ with .sessionlink }}<a href="{{ . }}" target="_blank">{{ end }}
+                {{ .sessionname }}
+                {{ with .sessionlink }}</a>{{ end }}  
+              </dd>
+              <br />
+            </span>
+              {{ end }}
+            </dl>
         </div>
-    </p>
     <br />
 </section>
+
