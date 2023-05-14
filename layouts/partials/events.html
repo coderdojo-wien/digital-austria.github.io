@@ -20,7 +20,7 @@
                 </div>
                 {{ with .image }}<meta itemprop="image" content="{{ . }}" />{{ end }}
                 <b>
-                    {{ .startdate | time.Format "January 2, 2006" }}
+                    {{ .startdate | time.Format ":date_long" }}
                     {{ with .eventlink }}<a href="{{ . }}" target="_blank">{{ end }}
                     <span itemprop="name">{{ .eventname }}</span>
                     {{ with .eventlink }}</a>{{ end }}
@@ -30,6 +30,8 @@
                 {{ end }}
               </dt>
               <dd>
+                {{ .startdate | time.Format ":time_short" }} bis {{ .enddate | time.Format ":time_short" }}
+                <br />
                 {{ with .location }}{{ . }}{{ end }}, {{ with .address }}{{ . }}<br/>{{ end }}
                 {{ with .sessionlink }}<a href="{{ . }}" target="_blank">{{ end }}
                 {{ .sessionname }}
