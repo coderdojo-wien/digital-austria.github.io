@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://digital-austria.at/page/about/</loc>
+    <lastmod>2023-05-17T22:06:26+02:00</lastmod>
+  </url><url>
     <loc>https://digital-austria.at/infos/eltern/</loc>
     <lastmod>2023-03-27T06:26:11+02:00</lastmod>
   </url><url>
@@ -23,32 +26,38 @@
     <loc>https://digital-austria.at/dojos/wien/</loc>
     <lastmod>2023-03-26T20:45:17+02:00</lastmod>
   </url><url>
-    <loc>https://digital-austria.at/page/about/</loc>
-    <lastmod>2023-05-17T20:26:48+02:00</lastmod>
-  </url><url>
     <loc>https://digital-austria.at/page/sponsor/</loc>
     <lastmod>2023-03-28T10:08:45+02:00</lastmod>
   </url><url>
+    <loc>https://digital-austria.at/page/press/</loc>
+    <lastmod>2023-05-17T22:06:26+02:00</lastmod>
+  </url><url>
     <loc>https://digital-austria.at/page/imprint/</loc>
-    <lastmod>2023-03-19T01:16:21+01:00</lastmod>
+    <lastmod>2023-05-17T22:06:26+02:00</lastmod>
   </url><url>
     <loc>https://digital-austria.at/categories/</loc>
-    <lastmod>2023-05-17T20:26:48+02:00</lastmod>
+    <lastmod>2023-05-17T22:06:26+02:00</lastmod>
+  </url><url>
+    <loc>https://digital-austria.at/</loc>
+    <lastmod>2023-05-17T22:06:26+02:00</lastmod>
+  </url><url>
+    <loc>https://digital-austria.at/tags/medien/</loc>
+    <lastmod>2023-05-17T22:06:26+02:00</lastmod>
+  </url><url>
+    <loc>https://digital-austria.at/tags/presse/</loc>
+    <lastmod>2023-05-17T22:06:26+02:00</lastmod>
+  </url><url>
+    <loc>https://digital-austria.at/tags/</loc>
+    <lastmod>2023-05-17T22:06:26+02:00</lastmod>
+  </url><url>
+    <loc>https://digital-austria.at/categories/verein/</loc>
+    <lastmod>2023-05-17T22:06:26+02:00</lastmod>
   </url><url>
     <loc>https://digital-austria.at/tags/coderdojo/</loc>
     <lastmod>2023-05-13T15:56:07+02:00</lastmod>
   </url><url>
-    <loc>https://digital-austria.at/</loc>
-    <lastmod>2023-05-17T20:26:48+02:00</lastmod>
-  </url><url>
     <loc>https://digital-austria.at/tags/ehrenamt/</loc>
     <lastmod>2023-04-17T15:22:42+02:00</lastmod>
-  </url><url>
-    <loc>https://digital-austria.at/tags/</loc>
-    <lastmod>2023-05-13T15:56:07+02:00</lastmod>
-  </url><url>
-    <loc>https://digital-austria.at/categories/verein/</loc>
-    <lastmod>2023-05-17T20:26:48+02:00</lastmod>
   </url><url>
     <loc>https://digital-austria.at/projects/wiener-ehrenamtswoche-2023/</loc>
     <lastmod>2023-04-17T15:22:42+02:00</lastmod>
@@ -84,16 +93,16 @@
     <lastmod>2023-03-28T10:08:45+02:00</lastmod>
   </url><url>
     <loc>https://digital-austria.at/tags/haftungsausschlu%C3%9F/</loc>
-    <lastmod>2023-03-19T01:16:21+01:00</lastmod>
+    <lastmod>2023-05-17T22:06:26+02:00</lastmod>
   </url><url>
     <loc>https://digital-austria.at/tags/impressum/</loc>
-    <lastmod>2023-03-19T01:16:21+01:00</lastmod>
+    <lastmod>2023-05-17T22:06:26+02:00</lastmod>
   </url><url>
     <loc>https://digital-austria.at/tags/offenlegung/</loc>
-    <lastmod>2023-03-19T01:16:21+01:00</lastmod>
+    <lastmod>2023-05-17T22:06:26+02:00</lastmod>
   </url><url>
     <loc>https://digital-austria.at/tags/verein/</loc>
-    <lastmod>2023-03-19T01:16:21+01:00</lastmod>
+    <lastmod>2023-05-17T22:06:26+02:00</lastmod>
   </url><url>
     <loc>https://digital-austria.at/dojos/</loc>
     <lastmod>2023-03-26T20:53:00+02:00</lastmod>
