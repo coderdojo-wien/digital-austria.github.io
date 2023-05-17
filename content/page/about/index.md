@@ -27,3 +27,5 @@ Zur Zeit gibt es jeden Freitag virtuelle CoderDojos von unseren Freunden des Cod
 Es gibt in [Wien]({{< relref "/dojos/wien" >}}) jede zweite Woche und in [Tulln]({{< relref "/dojos/tulln" >}}) einmal in Montag ein persönliches Treffen zum gemeinsamen Programmieren. Für diese ist eine Anmeldung erforderlich.
 
 <!-- ![Logo von digital.austria](/img/logo.webp#center "Logo von digital.austria") -->
+
+{{< mentors >}}

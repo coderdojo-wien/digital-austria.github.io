@@ -1,0 +1,100 @@
+[
+    {
+        "name": "Daniel Wagner",
+        "title": "Obmann",
+        "email": "daniel@digital-austria.at",
+        "url": "https://danielwagner.at/",
+        "image": "/img/mentors/daniel_wagner.jpg",
+        "socialIcons" : [
+            {
+                "name" : "email",
+                "url" : "mailto:daniel@digital-austria.at"
+            },
+            {
+                "name" : "github",
+                "url" : "https://github.com/danielwagn3r"
+            },
+            {
+                "name" : "gitlab",
+                "url" : "https://gitlab.com/danielwagn3r"
+            },
+            {
+                "name" : "linkedin",
+                "url" : "https://www.linkedin.com/in/danielwagn3r"
+            },
+            {
+                "name" : "facebook",
+                "url" : "https://www.facebook.com/daniel.wagn3r"
+            },
+            {
+                "name" : "instagram",
+                "url" : "https://www.instagram.com/dani3lwagner"
+            },
+            {
+                "name" : "mastodon",
+                "url" : "https://fedi.at/@danielwagn3r"
+            },
+            {
+                "name" : "cv",
+                "title": "web",
+                "url" : "https://danielwagner.at/"
+            }
+        ]
+    },
+    {
+        "name": "Karl Sträßler",
+        "title": "Obmann Stellvertreter",
+        "email": "karl.straessler@wien.coderdojo.net",
+        "image": "/img/mentors/karl_straessler.jpg",
+        "socialIcons" : [
+            {
+                "name" : "email",
+                "url" : "mailto:karl.straessler@wien.coderdojo.net"
+            },
+            {
+                "name" : "github",
+                "url" : "https://github.com/danielwagn3r"
+            },
+            {
+                "name" : "linkedin",
+                "url" : "https://at.linkedin.com/in/karl-str%C3%A4ssler-98457710"
+            }
+        ]
+    },
+    {
+        "name": "Katharina Unlayao",
+        "title": "Kassierin",
+        "email": "katharina.unlayao@wien.coderdojo.net",
+        "image": "/img/mentors/katharina_unlayao.jpg",
+        "socialIcons" : [
+            {
+                "name" : "email",
+                "url" : "mailto:katharina.unlayao@wien.coderdojo.net"
+            },
+            {
+                "name" : "linkedin",
+                "url" : "https://at.linkedin.com/in/katharina-unlayao-787063155"
+            }
+        ]
+    },
+    {
+        "name": "Rigerta Demiri",
+        "title": "Schriftführerin",
+        "email": "rigerta.demiri@wien.coderdojo.net",
+        "image": "/img/mentors/rigerta_demiri.jpg",
+        "socialIcons" : [
+            {
+                "name" : "email",
+                "url" : "mailto:rigerta.demiri@wien.coderdojo.net"
+            },
+            {
+                "name" : "gitlab",
+                "url" : "https://gitlab.com/Rigerta"
+            },
+            {
+                "name" : "linkedin",
+                "url" : "https://at.linkedin.com/in/rigerta-demiri"
+            }
+        ]
+    }
+]

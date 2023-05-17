@@ -1,0 +1,20 @@
+{{ $mentors := $.Site.Data.mentors }}
+<div class="mentors">
+{{ range $mentors }}
+<div itemscope itemtype="https://schema.org/Person">
+    
+    <meta itemprop="email" content="{{ .email }}" />
+    <meta itemprop="url" content="{{ .url }}" />
+    {{ with .image }}<meta itemprop="image" content="{{ . }}" />{{ end }}
+    <figure>
+      <img loading="lazy" src="{{ .image }}" alt="{{ .name }}" />
+      <figcaption>
+          <span itemprop="name">{{ .name }}</span>
+          <p><span itemprop="jobTitle">{{ .title }}</span></p>
+          {{- partial "social_icons.html" .socialIcons -}}
+      </figcaption>
+    </figure>
+  <br />
+  </span>
+  {{ end }}
+</div>
