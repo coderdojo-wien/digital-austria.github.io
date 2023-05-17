@@ -34,5 +34,17 @@
         "sessionname": "Anmelden",
         "sessionlink": "https://www.eventbrite.at/e/coderdojo-wien-at-verbund-am-9623-registrierung-636066561207",
         "image": "/img/event/wien.jpg"
+    },
+    {
+        "startdate": "2023-06-23T16:00:00+0200",
+        "enddate": "2023-06-23T18:00:00+0200",
+        "eventname": "CoderDojo Tulln",
+        "organizer" : "digital.austria",
+        "organizerurl": "https://digital-austria.at",
+        "location": "HAK Tulln",
+        "address": "Donaulände 64, 3430 Tulln",
+        "sessionname": "Anmelden",
+        "sessionlink": "https://www.eventbrite.at/e/coderdojo-tulln-at-hak-registrierung-636684459357",
+        "image": "/img/event/tulln.jpg"
     }
 ]
