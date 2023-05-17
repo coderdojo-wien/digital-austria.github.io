@@ -36,6 +36,6 @@ weight: 30
 
 ## Anfragen
 
-Wir stehen gerne für Ihre Anfraen zur Verfügung, bitte wenden Sie sich an unsere  [Obleute]({{< relref "/page/about#unser-board" >}}) oder kontaktiere uns unter:
+Wir stehen gerne für deine Anfrage zur Verfügung, bitte wende dich an unsere  [Obleute]({{< relref "/page/about#unser-board" >}}) oder kontaktiere uns unter:
 
 hallo@digital-austria.at
