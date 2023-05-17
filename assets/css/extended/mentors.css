@@ -1,0 +1,12 @@
+.mentors {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.mentors img {
+    border-radius: 50%;
+    border-style: groove;
+    flex-basis: calc(33.33% - 10px);
+    margin-bottom: 10px;
+}
