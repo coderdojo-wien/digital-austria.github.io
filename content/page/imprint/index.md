@@ -9,7 +9,7 @@ tags:
 - impressum
 - offenlegung
 - haftungsausschluß
-weight: 30
+weight: 40
 aliases:
 - /privacy
 ---
