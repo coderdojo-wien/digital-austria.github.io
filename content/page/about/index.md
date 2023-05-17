@@ -21,7 +21,7 @@ weight: 10
 
 Der Verein digital.austria wurde 2017 gegründet. Die beiden Gründer Anton Kalcik und Daniel Wagner hatten ihre ersten Erfahrungen beim [CoderDojo Linz](https://linz.coderdojo.net) gesammelt. Rasch war allerdins der Entschluss das CoderDojo in Wien starten zu wollen gefasst. Das erste CoderDojo Wien fand am 28. April 2017 statt.
 
-{{< figure src="first-dojo.webp" align="center" alt="Erstes CoderDojo Wien bei VERBUND" title="Erstes CoderDojo Wien" caption="Bei Firma VERBUND" >}}
+{{< figure src="first-dojo.webp" align="center" alt="Erstes CoderDojo Wien bei VERBUND" title="Erstes CoderDojo Wien" caption="Gastgeber Firma VERBUND" >}}
 
 Seither ist viel geschehen, maches hat sich verändert und weiterentwickelt. Gleich gelieben ist der Glaube an die Ursprungsidee von CoderDojo
 
