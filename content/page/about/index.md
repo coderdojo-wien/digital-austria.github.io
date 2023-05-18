@@ -38,9 +38,10 @@ Kinder unter 13 Jahren müssen von einem Erwachsenen begleitet werden.
 
 Zur Zeit gibt es jeden Freitag virtuelle CoderDojos von unseren Freunden des CoderDojo Linz an denen du vie Zoom teilnehmen kannst.
 
-Es gibt in [Wien]({{< relref "/dojos/wien" >}}) jede zweite Woche und in [Tulln]({{< relref "/dojos/tulln" >}}) einmal in Montag ein persönliches Treffen zum gemeinsamen Programmieren. Für diese ist eine Anmeldung erforderlich.
+Es gibt in [Wien]({{< relref "/dojos/wien" >}}) jede zweite Woche und in [Tulln]({{< relref "/dojos/tulln" >}}) einmal in Monat ein persönliches Treffen zum gemeinsamen Programmieren. Für diese ist eine Anmeldung erforderlich.
 
-Neben unseren regelmäßigen Aktivitäten engagieren wir uns beispielsweise auch bei Coding-Workshops in Schulen oder unterstützen bei durch unser Know-How bei andere Veranstaltungen.
+Neben unseren regelmäßigen Aktivitäten engagieren wir uns beispielsweise auch bei Coding-Workshops in Schulen oder unterstützen mit unserem Know-How bei anderen Veranstaltungen.
+
 ## Unser Board
 
 {{< mentors >}}
