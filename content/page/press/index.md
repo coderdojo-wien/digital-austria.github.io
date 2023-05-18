@@ -21,7 +21,7 @@ weight: 30
 
 * Profil, 24. April 2017: [Kinderclub: Computerspiele selber programmieren](https://www.profil.at/wissenschaft/kinder-club-computerspiele-coderdojo-programmieren-8095147)
 
-* Verbund, 26.1.2028 [CoderDojo: Nachwuchs-Programmierer bei VERBUND](https://vreund.verbund.at/de-at/artikel/2018/01/26/coderdojo)
+* Verbund, 26. Jänner 2018: [CoderDojo: Nachwuchs-Programmierer bei VERBUND](https://vreund.verbund.at/de-at/artikel/2018/01/26/coderdojo)
 
 * Pressetext.at, 14. Februar 2018: [Hackathon für CoderDojo-Mentoren](https://www.pressetext.com/news/hackathon-fuer-coderdojo-mentoren.html)
 
