@@ -1,5 +1,5 @@
 ---
-title: "Presse"
+title: "Medien und Presse"
 description: "digital.austria und CoderDojo in Medien und Presse"
 #author: Me
 date: 2023-05-17T21:39:21+02:00
@@ -20,6 +20,8 @@ weight: 30
 ## In Presse und Medien
 
 * Profil, 24. April 2017: [Kinderclub: Computerspiele selber programmieren](https://www.profil.at/wissenschaft/kinder-club-computerspiele-coderdojo-programmieren-8095147)
+
+* Verbund, 26.1.2028 [CoderDojo: Nachwuchs-Programmierer bei VERBUND](https://vreund.verbund.at/de-at/artikel/2018/01/26/coderdojo)
 
 * Pressetext.at, 14. Februar 2018: [Hackathon für CoderDojo-Mentoren](https://www.pressetext.com/news/hackathon-fuer-coderdojo-mentoren.html)
 
