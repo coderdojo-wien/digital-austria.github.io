@@ -76,7 +76,7 @@ params:
     imageTitle: "Logo von digital.austria"
     buttons:
       - name: über uns
-        url: page/about
+        url: page
       - name: übungen
         url: https://coderdojo-linz.github.io/uebungsanleitungen/
       - name: sponsor
@@ -169,7 +169,7 @@ menu:
   main:
     - identifier: about
       name: über uns
-      url: /page/about/
+      url: /page/
       weight: 10
     - identifier: offering
       name: sponsor
