@@ -9,7 +9,8 @@
         "address": "Donaulände 64, 3430 Tulln",
         "sessionname": "Anmelden",
         "sessionlink": "https://www.eventbrite.at/e/coderdojo-tulln-at-hak-registrierung-622290506657",
-        "image": "/img/event/tulln.jpg"
+        "image": "/img/event/tulln.jpg",
+        "type" : "onsite"
     },
     {
         "startdate": "2023-05-26T16:00:00+0200",
@@ -21,7 +22,8 @@
         "address": "Am Hof 6a, 1010 Wien",
         "sessionname": "Anmelden",
         "sessionlink": "https://www.eventbrite.at/e/coderdojo-wien-at-verbund-am-26523-registrierung-627562445167",
-        "image": "/img/event/wien.jpg"
+        "image": "/img/event/wien.jpg",
+        "type" : "onsite"
     },
     {
         "startdate": "2023-06-09T16:00:00+0200",
@@ -33,7 +35,8 @@
         "address": "Am Hof 6a, 1010 Wien",
         "sessionname": "Anmelden",
         "sessionlink": "https://www.eventbrite.at/e/coderdojo-wien-at-verbund-am-9623-registrierung-636066561207",
-        "image": "/img/event/wien.jpg"
+        "image": "/img/event/wien.jpg",
+        "type" : "onsite"
     },
     {
         "startdate": "2023-06-23T16:00:00+0200",
@@ -45,6 +48,7 @@
         "address": "Donaulände 64, 3430 Tulln",
         "sessionname": "Anmelden",
         "sessionlink": "https://www.eventbrite.at/e/coderdojo-tulln-at-hak-registrierung-636684459357",
-        "image": "/img/event/tulln.jpg"
+        "image": "/img/event/tulln.jpg",
+        "type" : "onsite"
     }
 ]
