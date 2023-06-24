@@ -1,54 +1,41 @@
 [
     {
-        "startdate": "2023-05-26T16:00:00+0200",
-        "enddate": "2023-05-26T18:00:00+0200",
-        "eventname": "CoderDojo Tulln",
-        "organizer" : "digital.austria",
-        "organizerurl": "https://digital-austria.at",
-        "location": "HAK Tulln",
-        "address": "Donaulände 64, 3430 Tulln",
-        "sessionname": "Anmelden",
-        "sessionlink": "https://www.eventbrite.at/e/coderdojo-tulln-at-hak-registrierung-622290506657",
-        "image": "/img/event/tulln.jpg",
-        "type" : "onsite"
-    },
-    {
-        "startdate": "2023-05-26T16:00:00+0200",
-        "enddate": "2023-05-26T18:00:00+0200",
+        "startdate": "2023-06-30T16:00:00+0200",
+        "enddate": "2023-06-30T18:00:00+0200",
         "eventname": "CoderDojo Wien",
         "organizer" : "digital.austria",
         "organizerurl": "https://digital-austria.at",
         "location": "Verbund",
         "address": "Am Hof 6a, 1010 Wien",
         "sessionname": "Anmelden",
-        "sessionlink": "https://www.eventbrite.at/e/coderdojo-wien-at-verbund-am-26523-registrierung-627562445167",
+        "sessionlink": "https://www.eventbrite.at/e/coderdojo-wien-at-verbund-am-30623-registrierung-644384209517?aff=oddtdtcreator",
         "image": "/img/event/wien.jpg",
         "type" : "onsite"
     },
     {
-        "startdate": "2023-06-09T16:00:00+0200",
-        "enddate": "2023-06-09T18:00:00+0200",
-        "eventname": "CoderDojo Wien",
-        "organizer" : "digital.austria",
-        "organizerurl": "https://digital-austria.at",
-        "location": "Verbund",
-        "address": "Am Hof 6a, 1010 Wien",
-        "sessionname": "Anmelden",
-        "sessionlink": "https://www.eventbrite.at/e/coderdojo-wien-at-verbund-am-9623-registrierung-636066561207",
-        "image": "/img/event/wien.jpg",
-        "type" : "onsite"
-    },
-    {
-        "startdate": "2023-06-23T16:00:00+0200",
-        "enddate": "2023-06-23T18:00:00+0200",
+        "startdate": "2023-07-14T16:00:00+0200",
+        "enddate": "2023-07-14T18:00:00+0200",
         "eventname": "CoderDojo Tulln",
         "organizer" : "digital.austria",
         "organizerurl": "https://digital-austria.at",
         "location": "HAK Tulln",
         "address": "Donaulände 64, 3430 Tulln",
         "sessionname": "Anmelden",
-        "sessionlink": "https://www.eventbrite.at/e/coderdojo-tulln-at-hak-registrierung-636684459357",
+        "sessionlink": "https://www.eventbrite.at/e/coderdojo-tulln-at-hak-registrierung-666011717977?aff=oddtdtcreator",
         "image": "/img/event/tulln.jpg",
+        "type" : "onsite"
+    },
+    {
+        "startdate": "2023-07-07T16:00:00+0200",
+        "enddate": "2023-07-07T18:00:00+0200",
+        "eventname": "CoderDojo Wien",
+        "organizer" : "digital.austria",
+        "organizerurl": "https://digital-austria.at",
+        "location": "Verbund",
+        "address": "Am Hof 6a, 1010 Wien",
+        "sessionname": "Anmelden",
+        "sessionlink": "https://www.eventbrite.at/e/coderdojo-wien-at-verbund-am-7723-registrierung-655738259787?aff=oddtdtcreator",
+        "image": "/img/event/wien.jpg",
         "type" : "onsite"
     }
 ]
