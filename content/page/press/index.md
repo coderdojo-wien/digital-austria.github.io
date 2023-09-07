@@ -36,6 +36,8 @@ weight: 30
 * MeinBezirk.at, 13. Mai 2023: [Programmier-Club CoderDojo zu Gast bei Dynatrace
 ](https://www.meinbezirk.at/wien/c-regionauten-community/programmier-club-coderdojo-zu-gast-bei-dynatrace_a6045705)
 
+* Confare Blog, 17. August 2023: [CoderDojo: Ein sicherer und sozialer Raum für Kinder, um Technologie zu erkunden](https://confare.at/daniel-wagner-coderdojo-ein-sicherer-und-sozialer-raum-fuer-kinder-um-technologie-zu-erkunden/)
+
 ## Anfragen
 
 Wir stehen gerne für deine Anfrage zur Verfügung, bitte wende dich an unsere  [Obleute]({{< relref "/page/about#unser-board" >}}) oder kontaktiere uns unter:
