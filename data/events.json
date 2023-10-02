@@ -1,40 +1,14 @@
 [
     {
-        "startdate": "2023-09-15T16:00:00+0200",
-        "enddate": "2023-09-15T18:00:00+0200",
+        "startdate": "2023-10-13T16:00:00+0200",
+        "enddate": "2023-10-13T18:00:00+0200",
         "eventname": "CoderDojo Wien",
         "organizer" : "digital.austria",
         "organizerurl": "https://digital-austria.at",
         "location": "Verbund",
         "address": "Am Hof 6a, 1010 Wien",
         "sessionname": "Anmelden",
-        "sessionlink": "https://www.eventbrite.at/e/coderdojo-wien-at-verbund-am-15923-registrierung-707298277187?aff=web",
-        "image": "/img/event/wien.jpg",
-        "type" : "onsite"
-    },
-    {
-        "startdate": "2023-09-22T16:00:00+0200",
-        "enddate": "2023-09-22T18:00:00+0200",
-        "eventname": "CoderDojo Tulln",
-        "organizer" : "digital.austria",
-        "organizerurl": "https://digital-austria.at",
-        "location": "HAK Tulln",
-        "address": "Donaulände 64, 3430 Tulln",
-        "sessionname": "Anmelden",
-        "sessionlink": "https://www.eventbrite.at/e/coderdojo-tulln-at-hak-september-edition-registrierung-715159319777?aff=web",
-        "image": "/img/event/tulln.jpg",
-        "type" : "onsite"
-    },
-    {
-        "startdate": "2023-09-29T16:00:00+0200",
-        "enddate": "2023-09-29T18:00:00+0200",
-        "eventname": "CoderDojo Wien",
-        "organizer" : "digital.austria",
-        "organizerurl": "https://digital-austria.at",
-        "location": "Verbund",
-        "address": "Am Hof 6a, 1010 Wien",
-        "sessionname": "Anmelden",
-        "sessionlink": "https://www.eventbrite.at/e/coderdojo-wien-at-verbund-am-29923-registrierung-712001324127?aff=web",
+        "sessionlink": "https://www.eventbrite.at/e/coderdojo-wien-at-verbund-am-131023-registrierung-720294609567?aff=web",
         "image": "/img/event/wien.jpg",
         "type" : "onsite"
     },
