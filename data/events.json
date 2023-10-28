@@ -1,18 +1,5 @@
 [
     {
-        "startdate": "2023-10-20T16:00:00+0200",
-        "enddate": "2023-10-20T18:00:00+0200",
-        "eventname": "CoderDojo Tulln",
-        "organizer" : "digital.austria",
-        "organizerurl": "https://digital-austria.at",
-        "location": "HAK Tulln",
-        "address": "Donaulände 64, 3430 Tulln",
-        "sessionname": "Anmelden",
-        "sessionlink": "https://www.eventbrite.at/e/coderdojo-tulln-oktober-edition-registrierung-715161546437?aff=web",
-        "image": "/img/event/tulln.jpg",
-        "type" : "onsite"
-    },
-    {
         "startdate": "2023-11-10T16:00:00+0200",
         "enddate": "2023-11-10T18:00:00+0200",
         "eventname": "CoderDojo Wien",
