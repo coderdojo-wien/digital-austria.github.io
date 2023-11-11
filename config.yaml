@@ -116,6 +116,9 @@ params:
     - name: linkedin
       url: "https://www.linkedin.com/company/coderdojowien"
       title: "CoderDojo Wien on LinkedIn"
+    - name: mastodon
+      url: "https://mastodon.social/@coderdojowien"
+      title: "CoderDojo Wien on Mastodon"
     - name: facebook
       url: "https://www.facebook.com/coderdojowien"
       title: "CoderDojo Wien on Facebook"
@@ -125,6 +128,9 @@ params:
     - name: linkedin
       url: "https://www.linkedin.com/company/coderdojotulln"
       title: "CoderDojo Tulln on LinkedIn"
+    - name: mastodon
+      url: "https://mastodon.social/@coderdojotulln"
+      title: "CoderDojo Tulln on Mastodon"
     - name: facebook
       url: "https://www.facebook.com/coderdojotulln"
       title: "CoderDojo Tulln on Facebook"
