@@ -1,18 +1,5 @@
 [
     {
-        "startdate": "2023-11-10T16:00:00+0200",
-        "enddate": "2023-11-10T18:00:00+0200",
-        "eventname": "CoderDojo Wien",
-        "organizer" : "digital.austria",
-        "organizerurl": "https://digital-austria.at",
-        "location": "Verbund",
-        "address": "Am Hof 6a, 1010 Wien",
-        "sessionname": "Anmelden",
-        "sessionlink": "https://www.eventbrite.at/e/coderdojo-wien-at-verbund-am-101123-registrierung-729289292907?aff=web",
-        "image": "/img/event/wien.jpg",
-        "type" : "onsite"
-    },
-    {
         "startdate": "2023-11-17T16:00:00+0100",
         "enddate": "2023-11-17T18:00:00+0100",
         "eventname": "CoderDojo Tulln",
@@ -36,6 +23,32 @@
         "sessionname": "Anmelden",
         "sessionlink": "https://www.eventbrite.at/e/coderdojo-wien-at-verbund-am-241123-registrierung-738339071037?aff=web",
         "image": "/img/event/wien.jpg",
+        "type" : "onsite"
+    },
+    {
+        "startdate": "2023-12-0116:00:00+0200",
+        "enddate": "2023-13-01T18:00:00+0200",
+        "eventname": "CoderDojo Wien",
+        "organizer" : "digital.austria",
+        "organizerurl": "https://digital-austria.at",
+        "location": "Verbund",
+        "address": "Am Hof 6a, 1010 Wien",
+        "sessionname": "Anmelden",
+        "sessionlink": "https://www.eventbrite.at/e/coderdojo-wien-at-verbund-am-11223-registrierung-756643289447?aff=web",
+        "image": "/img/event/wien.jpg",
+        "type" : "onsite"
+    },
+    {
+        "startdate": "2023-12-15T16:00:00+0100",
+        "enddate": "2023-12-15T18:00:00+0100",
+        "eventname": "CoderDojo Tulln",
+        "organizer" : "digital.austria",
+        "organizerurl": "https://digital-austria.at",
+        "location": "tba",
+        "address": "tba",
+        "sessionname": "Anmelden",
+        "sessionlink": "https://www.eventbrite.at/e/coderdojo-tulln-dezember-edition-registrierung-756726809257?aff=web",
+        "image": "/img/event/tulln.jpg",
         "type" : "onsite"
     }
 ]
