@@ -1,18 +1,5 @@
 [
     {
-        "startdate": "2023-11-17T16:00:00+0100",
-        "enddate": "2023-11-17T18:00:00+0100",
-        "eventname": "CoderDojo Tulln",
-        "organizer" : "digital.austria",
-        "organizerurl": "https://digital-austria.at",
-        "location": "HAK Tulln",
-        "address": "Donaulände 64, 3430 Tulln",
-        "sessionname": "Anmelden",
-        "sessionlink": "https://www.eventbrite.at/e/coderdojo-tulln-november-edition-registrierung-739284358417?aff=web",
-        "image": "/img/event/tulln.jpg",
-        "type" : "onsite"
-    },
-    {
         "startdate": "2023-11-24T16:00:00+0200",
         "enddate": "2023-11-24T18:00:00+0200",
         "eventname": "CoderDojo Wien",
@@ -41,13 +28,13 @@
     {
         "startdate": "2023-12-15T16:00:00+0100",
         "enddate": "2023-12-15T18:00:00+0100",
-        "eventname": "CoderDojo Tulln",
+        "eventname": "TechnologyKids & CoderDojo Tulln Coding Weihnachtswerkstatt",
         "organizer" : "digital.austria",
         "organizerurl": "https://digital-austria.at",
-        "location": "tba",
-        "address": "tba",
+        "location": "edu-MakerSpace Tulln",
+        "address": "Frauentorgasse 72-74, 3430 Tulln",
         "sessionname": "Anmelden",
-        "sessionlink": "https://www.eventbrite.at/e/coderdojo-tulln-dezember-edition-registrierung-756726809257?aff=web",
+        "sessionlink": "https://coderdojo.com/de/dojos/at/tulln-an-der-donau/tulln",
         "image": "/img/event/tulln.jpg",
         "type" : "onsite"
     }
