@@ -11,7 +11,7 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-at</language>
-    <lastBuildDate>Wed, 17 May 2023 21:39:21 +0200</lastBuildDate><atom:link href="https://digital-austria.at/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 21 Nov 2023 09:39:31 +0100</lastBuildDate><atom:link href="https://digital-austria.at/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Über uns</title>
       <link>https://digital-austria.at/page/about/</link>
@@ -116,6 +116,15 @@ Rechtsform: Eintragener Verein Vereinssitz: Langenlebarn, Austria Vereinsregiste
 Zuständige Behörde: Bezirkshauptmannschaft Tulln
 Vereinszweck Der Verein, dessen Tätigkeit nicht auf Gewinn gerichtet ist, bezweckt die Förderung der Kenntnisse der Allgemeinheit über Informationstechnologie im Allgemeinen und Softwareentwicklung im Speziellen.
 Datenschutz Wir sammeln Nutzungsdaten mithilfe von Google Analytics, um den Website-Traffic zu visualisieren.</description>
+    </item>
+    
+    <item>
+      <title>Coding Weihnachtswerkstatt Tulln 2023</title>
+      <link>https://digital-austria.at/posts/2023-11-21-coding-weihnachtswerkstatt-tulln/</link>
+      <pubDate>Tue, 21 Nov 2023 09:39:31 +0100</pubDate>
+      
+      <guid>https://digital-austria.at/posts/2023-11-21-coding-weihnachtswerkstatt-tulln/</guid>
+      <description>TechnologyKids und CoderDojo Tulln laden zur Coding Weihnachtswerkstatt ein.</description>
     </item>
     
     <item>
