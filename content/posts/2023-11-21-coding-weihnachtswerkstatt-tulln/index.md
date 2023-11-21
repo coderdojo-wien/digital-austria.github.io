@@ -20,6 +20,7 @@ Gemeinsam mit dem ebenfalls in Tulln ansässigen Verein [Verein TechnologyKids][
 
 Die Teilnahme ist wie immer kostenfrei und die Anmeldung ist bereits über unsere [Anmeldeseite](https://coderdojo.com/de/dojos/at/tulln-an-der-donau/tulln) möglich.
 
+Wir freuen uns auf euren Besuch.
 [![Logo von Verbund](/img/partners/eduMakerSpace.webp#center "edu-MakerSpace Logo")][eduMakerSpace]
 
 [eduMakerSpace]: https://makerspaces.ph-noe.ac.at/emstulln/
