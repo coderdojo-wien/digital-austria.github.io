@@ -1,31 +1,5 @@
 [
     {
-        "startdate": "2023-11-24T16:00:00+0200",
-        "enddate": "2023-11-24T18:00:00+0200",
-        "eventname": "CoderDojo Wien",
-        "organizer" : "digital.austria",
-        "organizerurl": "https://digital-austria.at",
-        "location": "Verbund",
-        "address": "Am Hof 6a, 1010 Wien",
-        "sessionname": "Anmelden",
-        "sessionlink": "https://www.eventbrite.at/e/coderdojo-wien-at-verbund-am-241123-registrierung-738339071037?aff=web",
-        "image": "/img/event/wien.jpg",
-        "type" : "onsite"
-    },
-    {
-        "startdate": "2023-12-01T16:00:00+0200",
-        "enddate": "2023-12-01T18:00:00+0200",
-        "eventname": "CoderDojo Wien",
-        "organizer" : "digital.austria",
-        "organizerurl": "https://digital-austria.at",
-        "location": "Verbund",
-        "address": "Am Hof 6a, 1010 Wien",
-        "sessionname": "Anmelden",
-        "sessionlink": "https://www.eventbrite.at/e/coderdojo-wien-at-verbund-am-11223-registrierung-756643289447?aff=web",
-        "image": "/img/event/wien.jpg",
-        "type" : "onsite"
-    },
-    {
         "startdate": "2023-12-15T16:00:00+0100",
         "enddate": "2023-12-15T18:00:00+0100",
         "eventname": "TechnologyKids & CoderDojo Tulln Coding Weihnachtswerkstatt",
@@ -36,6 +10,19 @@
         "sessionname": "Anmelden",
         "sessionlink": "https://coderdojo.com/de/dojos/at/tulln-an-der-donau/tulln",
         "image": "/img/event/tulln.jpg",
+        "type" : "onsite"
+    },
+    {
+        "startdate": "2023-12-22T16:00:00+0200",
+        "enddate": "2023-12-22T18:00:00+0200",
+        "eventname": "CoderDojo Wien",
+        "organizer" : "digital.austria",
+        "organizerurl": "https://digital-austria.at",
+        "location": "Verbund",
+        "address": "Am Hof 6a, 1010 Wien",
+        "sessionname": "Anmelden",
+        "sessionlink": "https://www.eventbrite.at/e/coderdojo-wien-at-verbund-am-221223-registrierung-770702179967?aff=web",
+        "image": "/img/event/wien.jpg",
         "type" : "onsite"
     }
 ]
