@@ -1,28 +1,54 @@
 [
     {
-        "startdate": "2023-12-15T16:00:00+0100",
-        "enddate": "2023-12-15T18:00:00+0100",
-        "eventname": "TechnologyKids & CoderDojo Tulln Coding Weihnachtswerkstatt",
-        "organizer" : "digital.austria",
-        "organizerurl": "https://digital-austria.at",
-        "location": "edu-MakerSpace Tulln",
-        "address": "Frauentorgasse 72-74, 3430 Tulln",
-        "sessionname": "Anmelden",
-        "sessionlink": "https://coderdojo.com/de/dojos/at/tulln-an-der-donau/tulln",
-        "image": "/img/event/tulln.jpg",
-        "type" : "onsite"
-    },
-    {
-        "startdate": "2023-12-22T16:00:00+0200",
-        "enddate": "2023-12-22T18:00:00+0200",
+        "startdate": "2024-01-19T16:00:00+0200",
+        "enddate": "2024-01-19T18:00:00+0200",
         "eventname": "CoderDojo Wien",
         "organizer" : "digital.austria",
         "organizerurl": "https://digital-austria.at",
         "location": "Verbund",
         "address": "Am Hof 6a, 1010 Wien",
         "sessionname": "Anmelden",
-        "sessionlink": "https://www.eventbrite.at/e/coderdojo-wien-at-verbund-am-221223-registrierung-770702179967?aff=web",
+        "sessionlink": "https://www.eventbrite.at/e/coderdojo-wien-at-verbund-am-19124-registrierung-780642581977?aff=web",
         "image": "/img/event/wien.jpg",
+        "type" : "onsite"
+    },
+    {
+        "startdate": "2024-01-26T16:00:00+0100",
+        "enddate": "2024-01-26T18:00:00+0100",
+        "eventname": "CoderDojo Tulln Jänner '24 Edition",
+        "organizer" : "digital.austria",
+        "organizerurl": "https://digital-austria.at",
+        "location": "HAK Tulln",
+        "address": "Donaulände 64, 3430 Tulln",
+        "sessionname": "Anmelden",
+        "sessionlink": "https://coderdojo.com/de/dojos/at/tulln-an-der-donau/tulln",
+        "image": "/img/event/tulln.jpg",
+        "type" : "onsite"
+    },
+    {
+        "startdate": "2024-02-02T16:00:00+0200",
+        "enddate": "2024-02-02T18:00:00+0200",
+        "eventname": "CoderDojo Wien",
+        "organizer" : "digital.austria",
+        "organizerurl": "https://digital-austria.at",
+        "location": "Verbund",
+        "address": "Am Hof 6a, 1010 Wien",
+        "sessionname": "Anmelden",
+        "sessionlink": "tba",
+        "image": "/img/event/wien.jpg",
+        "type" : "onsite"
+    },
+    {
+        "startdate": "2024-02-23T16:00:00+0100",
+        "enddate": "2024-02-23T18:00:00+0100",
+        "eventname": "CoderDojo Tulln Feber '24 Edition",
+        "organizer" : "digital.austria",
+        "organizerurl": "https://digital-austria.at",
+        "location": "HAK Tulln",
+        "address": "Donaulände 64, 3430 Tulln",
+        "sessionname": "Anmelden",
+        "sessionlink": "https://coderdojo.com/de/dojos/at/tulln-an-der-donau/tulln",
+        "image": "/img/event/tulln.jpg",
         "type" : "onsite"
     }
 ]
