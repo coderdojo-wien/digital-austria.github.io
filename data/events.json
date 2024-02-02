@@ -1,31 +1,5 @@
 [
     {
-        "startdate": "2024-01-26T16:00:00+0100",
-        "enddate": "2024-01-26T18:00:00+0100",
-        "eventname": "CoderDojo Tulln Jänner '24 Edition",
-        "organizer" : "digital.austria",
-        "organizerurl": "https://digital-austria.at",
-        "location": "HAK Tulln",
-        "address": "Donaulände 64, 3430 Tulln",
-        "sessionname": "Anmelden",
-        "sessionlink": "https://coderdojo.com/de/dojos/at/tulln-an-der-donau/tulln",
-        "image": "/img/event/tulln.jpg",
-        "type" : "onsite"
-    },
-    {
-        "startdate": "2024-02-02T16:00:00+0200",
-        "enddate": "2024-02-02T18:00:00+0200",
-        "eventname": "CoderDojo Wien",
-        "organizer" : "digital.austria",
-        "organizerurl": "https://digital-austria.at",
-        "location": "Verbund",
-        "address": "Am Hof 6a, 1010 Wien",
-        "sessionname": "Anmelden",
-        "sessionlink": "https://www.eventbrite.at/e/coderdojo-wien-at-verbund-am-2-februar-24-registrierung-790936842387?aff=web",
-        "image": "/img/event/wien.jpg",
-        "type" : "onsite"
-    },
-    {
         "startdate": "2024-02-16T16:00:00+0200",
         "enddate": "2024-02-16T18:00:00+0200",
         "eventname": "CoderDojo Wien",
@@ -49,6 +23,19 @@
         "sessionname": "Anmelden",
         "sessionlink": "https://coderdojo.com/de/dojos/at/tulln-an-der-donau/tulln",
         "image": "/img/event/tulln.jpg",
+        "type" : "onsite"
+    },
+    {
+        "startdate": "2024-03-01T16:00:00+0200",
+        "enddate": "2024-03-01T18:00:00+0200",
+        "eventname": "CoderDojo Wien",
+        "organizer" : "digital.austria",
+        "organizerurl": "https://digital-austria.at",
+        "location": "Verbund",
+        "address": "Am Hof 6a, 1010 Wien",
+        "sessionname": "Anmelden",
+        "sessionlink": "https://www.eventbrite.at/e/coderdojo-wien-at-verbund-am-16-febuar-24-registrierung-804721231867?aff=web",
+        "image": "/img/event/wien.jpg",
         "type" : "onsite"
     }
 ]
