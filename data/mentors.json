@@ -35,6 +35,14 @@
                 "url" : "https://fedi.at/@danielwagn3r"
             },
             {
+                "name" : "bluesky",
+                "url" : "https://bsky.app/profile/danielwagn3r.bsky.social"
+            },
+            {
+                "name" : "twitter",
+                "url" : "https://twitter.com/daniel_wagn3r"
+            },
+            {
                 "name" : "cv",
                 "title": "web",
                 "url" : "https://danielwagner.at/"
@@ -42,8 +50,24 @@
         ]
     },
     {
-        "name": "Karl Sträßler",
+        "name": "Anton Nedoma",
         "title": "Obmann Stellvertreter",
+        "email": "anton.nedoma@digital-austria.at",
+        "image": "/img/mentors/avatar.jpg",
+        "socialIcons" : [
+            {
+                "name" : "email",
+                "url" : "mailto:anton.nedoma@digital-austria.at"
+            },
+            {
+                "name" : "linkedin",
+                "url" : "https://www.linkedin.com/in/anton-nedoma-abb7b6b2/"
+            }
+        ]
+    },
+    {
+        "name": "Karl Sträßler",
+        "title": "Kassier",
         "email": "karl.straessler@wien.coderdojo.net",
         "image": "/img/mentors/karl_straessler.jpg",
         "socialIcons" : [
@@ -53,7 +77,7 @@
             },
             {
                 "name" : "github",
-                "url" : "https://github.com/danielwagn3r"
+                "url" : "https://github.com/straessler1"
             },
             {
                 "name" : "linkedin",
@@ -62,38 +86,18 @@
         ]
     },
     {
-        "name": "Katharina Unlayao",
-        "title": "Kassierin",
-        "email": "katharina.unlayao@wien.coderdojo.net",
-        "image": "/img/mentors/katharina_unlayao.jpg",
+        "name": "Thomas Zapf",
+        "title": "Schriftführer",
+        "email": "thomas.zapf@digital-austria.at",
+        "image": "/img/mentors/thomas_zapf.jpg",
         "socialIcons" : [
             {
                 "name" : "email",
-                "url" : "mailto:katharina.unlayao@wien.coderdojo.net"
+                "url" : "mailto:thomas.zapf@digital-austria.at"
             },
             {
                 "name" : "linkedin",
-                "url" : "https://at.linkedin.com/in/katharina-unlayao-787063155"
-            }
-        ]
-    },
-    {
-        "name": "Rigerta Demiri",
-        "title": "Schriftführerin",
-        "email": "rigerta.demiri@wien.coderdojo.net",
-        "image": "/img/mentors/rigerta_demiri.jpg",
-        "socialIcons" : [
-            {
-                "name" : "email",
-                "url" : "mailto:rigerta.demiri@wien.coderdojo.net"
-            },
-            {
-                "name" : "gitlab",
-                "url" : "https://gitlab.com/Rigerta"
-            },
-            {
-                "name" : "linkedin",
-                "url" : "https://at.linkedin.com/in/rigerta-demiri"
+                "url" : "https://www.linkedin.com/in/thomas-zapf-0434b610"
             }
         ]
     }
