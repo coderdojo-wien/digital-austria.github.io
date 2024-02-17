@@ -48,7 +48,7 @@
 
         <h1>{{ .title | default site.Title | markdownify }}</h1>
         <span>{{ .subtitle | markdownify }}</span>
-        {{- partial "social_icons.html" site.Params.socialIcons -}}
+        {{- partial "social_icons.html" -}}
 
         {{- with .buttons }}
         <div class="buttons">
@@ -69,7 +69,6 @@
             {{- end }}
         </div>
         {{- end }}
-
     </div>
     {{- end}}
 </div>
