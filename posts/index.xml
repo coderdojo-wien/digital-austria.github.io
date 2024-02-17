@@ -11,15 +11,14 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-at</language>
-    <lastBuildDate>Tue, 21 Nov 2023 09:39:31 +0100</lastBuildDate><atom:link href="https://digital-austria.at/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 21 Nov 2023 13:26:41 +0100</lastBuildDate>
+    <atom:link href="https://digital-austria.at/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Coding Weihnachtswerkstatt Tulln 2023</title>
       <link>https://digital-austria.at/posts/2023-11-21-coding-weihnachtswerkstatt-tulln/</link>
       <pubDate>Tue, 21 Nov 2023 09:39:31 +0100</pubDate>
-      
       <guid>https://digital-austria.at/posts/2023-11-21-coding-weihnachtswerkstatt-tulln/</guid>
       <description>TechnologyKids und CoderDojo Tulln laden zur Coding Weihnachtswerkstatt ein.</description>
     </item>
-    
   </channel>
 </rss>

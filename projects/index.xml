@@ -10,24 +10,21 @@
       <link>https://digital-austria.at/img/digital.austria_transparent.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>de-at</language><atom:link href="https://digital-austria.at/projects/index.xml" rel="self" type="application/rss+xml" />
+    <language>de-at</language>
+    <atom:link href="https://digital-austria.at/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>WAFF</title>
       <link>https://digital-austria.at/projects/waff/</link>
       <pubDate>Sun, 19 Mar 2023 00:14:46 +0100</pubDate>
-      
       <guid>https://digital-austria.at/projects/waff/</guid>
       <description>CoderDojo kooperiert regelmäßig mit dem WAFF</description>
     </item>
-    
     <item>
       <title>Wiener Ehrenamtswoche 2023</title>
       <link>https://digital-austria.at/projects/wiener-ehrenamtswoche-2023/</link>
       <pubDate>Mon, 17 Apr 2023 12:43:21 +0200</pubDate>
-      
       <guid>https://digital-austria.at/projects/wiener-ehrenamtswoche-2023/</guid>
       <description>Wir bringen digitales Ehrenamt ins Klassenzimmer und vernetzten Schulen und Schüler_innen miteinander</description>
     </item>
-    
   </channel>
 </rss>

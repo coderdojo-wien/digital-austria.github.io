@@ -10,24 +10,21 @@
       <link>https://digital-austria.at/img/digital.austria_transparent.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>de-at</language><atom:link href="https://digital-austria.at/dojos/index.xml" rel="self" type="application/rss+xml" />
+    <language>de-at</language>
+    <atom:link href="https://digital-austria.at/dojos/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CoderDojo Tulln</title>
       <link>https://digital-austria.at/dojos/tulln/</link>
       <pubDate>Thu, 23 Mar 2023 11:51:46 +0100</pubDate>
-      
       <guid>https://digital-austria.at/dojos/tulln/</guid>
       <description>Das CoderDojo ist ein Club für Kinder und Jugendliche, die programmieren lernen und Spaß haben wollen</description>
     </item>
-    
     <item>
       <title>CoderDojo Wien</title>
       <link>https://digital-austria.at/dojos/wien/</link>
       <pubDate>Fri, 30 Dec 2022 08:58:46 +0100</pubDate>
-      
       <guid>https://digital-austria.at/dojos/wien/</guid>
       <description>CoderDojo is a club for kids and teens who want to learn programming and have fun.</description>
     </item>
-    
   </channel>
 </rss>

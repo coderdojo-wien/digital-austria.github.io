@@ -11,12 +11,12 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-at</language>
-    <lastBuildDate>Thu, 29 Dec 2022 15:29:30 +0100</lastBuildDate><atom:link href="https://digital-austria.at/tags/haftungsausschlu%C3%9F/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 May 2023 22:06:26 +0200</lastBuildDate>
+    <atom:link href="https://digital-austria.at/tags/haftungsausschlu%C3%9F/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Impressum &amp; Offenlegung</title>
       <link>https://digital-austria.at/page/imprint/</link>
       <pubDate>Thu, 29 Dec 2022 15:29:30 +0100</pubDate>
-      
       <guid>https://digital-austria.at/page/imprint/</guid>
       <description>Medieninhaber und Herausgeber dieser Website digital.austria – Verein zur Förderung der Informationstechnologie Obmann: DI Mag. Daniel Wagner
 Bahnweg 3 Haus 1 3425 Langenlebarn Austria
@@ -26,6 +26,5 @@ Zuständige Behörde: Bezirkshauptmannschaft Tulln
 Vereinszweck Der Verein, dessen Tätigkeit nicht auf Gewinn gerichtet ist, bezweckt die Förderung der Kenntnisse der Allgemeinheit über Informationstechnologie im Allgemeinen und Softwareentwicklung im Speziellen.
 Datenschutz Wir sammeln Nutzungsdaten mithilfe von Google Analytics, um den Website-Traffic zu visualisieren.</description>
     </item>
-    
   </channel>
 </rss>
