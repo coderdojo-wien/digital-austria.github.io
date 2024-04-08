@@ -1,44 +1,5 @@
 [
     {
-        "startdate": "2024-03-22T16:00:00+0100",
-        "enddate": "2024-03-22T18:00:00+0100",
-        "eventname": "CoderDojo Tulln",
-        "organizer" : "digital.austria",
-        "organizerurl": "https://digital-austria.at",
-        "location": "HAK Tulln",
-        "address": "Donaulände 64, 3430 Tulln",
-        "sessionname": "Anmelden",
-        "sessionlink": "https://www.eventbrite.at/e/coderdojo-tulln-marz-24-edition-registrierung-842728332127?aff=web",
-        "image": "/img/event/tulln.jpg",
-        "type" : "onsite"
-    },
-    {
-        "startdate": "2024-03-29T16:00:00+0200",
-        "enddate": "2024-03-29T18:00:00+0200",
-        "eventname": "CoderDojo Wien",
-        "organizer" : "digital.austria",
-        "organizerurl": "https://digital-austria.at",
-        "location": "Verbund",
-        "address": "Am Hof 6a, 1010 Wien",
-        "sessionname": "Anmelden",
-        "sessionlink": "https://www.eventbrite.at/e/coderdojo-wien-at-verbund-am-29-marz-24-registrierung-846867582737?aff=web",
-        "image": "/img/event/wien.jpg",
-        "type" : "onsite"
-    },
-    {
-        "startdate": "2024-04-05T16:00:00+0100",
-        "enddate": "2024-04-05T18:00:00+0100",
-        "eventname": "CoderDojo Tulln Playground",
-        "organizer" : "digital.austria",
-        "organizerurl": "https://digital-austria.at",
-        "location": "HAK Tulln",
-        "address": "Donaulände 64, 3430 Tulln",
-        "sessionname": "Anmelden",
-        "sessionlink": "https://www.eventbrite.at/e/coderdojo-tulln-april-24-playground-registrierung-857962618287?aff=web",
-        "image": "/img/event/tulln.jpg",
-        "type" : "playground"
-    },
-    {
         "startdate": "2024-04-12T16:00:00+0200",
         "enddate": "2024-04-12T18:00:00+0200",
         "eventname": "CoderDojo Wien",
@@ -52,8 +13,8 @@
         "type" : "onsite"
     },
     {
-        "startdate": "2024-04-19T16:00:00+0100",
-        "enddate": "2024-04-19T18:00:00+0100",
+        "startdate": "2024-04-19T16:00:00+0200",
+        "enddate": "2024-04-19T18:00:00+0200",
         "eventname": "CoderDojo Tulln",
         "organizer" : "digital.austria",
         "organizerurl": "https://digital-austria.at",
@@ -65,8 +26,21 @@
         "type" : "onsite"
     },
     {
-        "startdate": "2024-05-03T16:00:00+0100",
-        "enddate": "2024-05-03T18:00:00+0100",
+        "startdate": "2024-04-26T16:00:00+0200",
+        "enddate": "2024-04-26T18:00:00+0200",
+        "eventname": "CoderDojo Wien",
+        "organizer" : "digital.austria",
+        "organizerurl": "https://digital-austria.at",
+        "location": "Verbund",
+        "address": "Am Hof 6a, 1010 Wien",
+        "sessionname": "Anmelden",
+        "sessionlink": "https://www.eventbrite.at/e/coderdojo-wien-at-verbund-am-26-april-24-registrierung-863907158567?aff=web",
+        "image": "/img/event/wien.jpg",
+        "type" : "onsite"
+    },
+    {
+        "startdate": "2024-05-03T16:00:00+0200",
+        "enddate": "2024-05-03T18:00:00+0200",
         "eventname": "CoderDojo Tulln Playground",
         "organizer" : "digital.austria",
         "organizerurl": "https://digital-austria.at",
@@ -76,5 +50,31 @@
         "sessionlink": "https://www.eventbrite.at/e/coderdojo-tulln-mai-24-playground-registrierung-864636469957?aff=web",
         "image": "/img/event/tulln.jpg",
         "type" : "playground"
+    },
+    {
+        "startdate": "2024-05-10T16:00:00+0200",
+        "enddate": "2024-05-10T18:00:00+0200",
+        "eventname": "CoderDojo Wien",
+        "organizer" : "digital.austria",
+        "organizerurl": "https://digital-austria.at",
+        "location": "Verbund",
+        "address": "Am Hof 6a, 1010 Wien",
+        "sessionname": "Anmelden",
+        "sessionlink": "https://www.eventbrite.at/e/coderdojo-wien-at-verbund-am-10-mai-24-registrierung-874327415837?aff=web",
+        "image": "/img/event/wien.jpg",
+        "type" : "onsite"
+    },
+    {
+        "startdate": "2024-05-17T16:00:00+0200",
+        "enddate": "2024-05-17T18:00:00+0200",
+        "eventname": "CoderDojo Tulln",
+        "organizer" : "digital.austria",
+        "organizerurl": "https://digital-austria.at",
+        "location": "HAK Tulln",
+        "address": "Donaulände 64, 3430 Tulln",
+        "sessionname": "Anmelden",
+        "sessionlink": "https://www.eventbrite.at/e/coderdojo-tulln-mai-24-edition-registrierung-870432094827?aff=web",
+        "image": "/img/event/tulln.jpg",
+        "type" : "onsite"
     }
 ]
