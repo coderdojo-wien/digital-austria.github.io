@@ -1,27 +1,14 @@
 [
     {
-        "startdate": "2024-06-21T16:00:00+0200",
-        "enddate": "2024-06-21T18:00:00+0200",
+        "startdate": "2024-07-19T16:00:00+0200",
+        "enddate": "2024-07-19T18:00:00+0200",
         "eventname": "CoderDojo Wien",
         "organizer" : "digital.austria",
         "organizerurl": "https://digital-austria.at",
         "location": "Verbund",
         "address": "Am Hof 6a, 1010 Wien",
         "sessionname": "Anmelden",
-        "sessionlink": "https://www.eventbrite.at/e/coderdojo-wien-at-verbund-am-21-juni-24-registrierung-903643511067?aff=web",
-        "image": "/img/event/wien.jpg",
-        "type" : "onsite"
-    },
-    {
-        "startdate": "2024-07-05T16:00:00+0200",
-        "enddate": "2024-07-05T18:00:00+0200",
-        "eventname": "CoderDojo Wien",
-        "organizer" : "digital.austria",
-        "organizerurl": "https://digital-austria.at",
-        "location": "PWC Austria",
-        "address": "DC Tower 1, Donau-City-Straße 7, 1220 Wien",
-        "sessionname": "Anmelden",
-        "sessionlink": "https://www.eventbrite.at/e/coderdojo-wien-at-pwc-am-5-juli-24-registrierung-912998391767?aff=web",
+        "sessionlink": "https://www.eventbrite.at/e/coderdojo-wien-at-verbund-am-19-juli-24-registrierung-924229985767?aff=web",
         "image": "/img/event/wien.jpg",
         "type" : "onsite"
     },
