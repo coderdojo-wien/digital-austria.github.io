@@ -11,7 +11,7 @@
     </image>
     <generator>Hugo -- 0.128.2</generator>
     <language>de-at</language>
-    <lastBuildDate>Wed, 06 Mar 2024 08:58:25 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jul 2024 22:02:59 +0200</lastBuildDate>
     <atom:link href="https://digital-austria.at/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Über uns</title>
@@ -96,6 +96,13 @@ Rechtsform: Eintragener Verein Vereinssitz: Langenlebarn, Austria Vereinsregiste
 Zuständige Behörde: Bezirkshauptmannschaft Tulln
 Vereinszweck Der Verein, dessen Tätigkeit nicht auf Gewinn gerichtet ist, bezweckt die Förderung der Kenntnisse der Allgemeinheit über Informationstechnologie im Allgemeinen und Softwareentwicklung im Speziellen.
 Datenschutz Wir sammeln Nutzungsdaten mithilfe von Google Analytics, um den Website-Traffic zu visualisieren.</description>
+    </item>
+    <item>
+      <title>Austrian Danube Camp - Mission CoderDojo Hackathon</title>
+      <link>https://digital-austria.at/projects/danubecamp-2024/</link>
+      <pubDate>Sat, 06 Jul 2024 21:47:00 +0200</pubDate>
+      <guid>https://digital-austria.at/projects/danubecamp-2024/</guid>
+      <description>Future Skills at work</description>
     </item>
     <item>
       <title>Coding Weihnachtswerkstatt Tulln 2023</title>

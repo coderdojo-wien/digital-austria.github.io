@@ -11,7 +11,7 @@
     </image>
     <generator>Hugo -- 0.128.2</generator>
     <language>de-at</language>
-    <lastBuildDate>Sat, 13 May 2023 15:56:07 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jul 2024 22:02:59 +0200</lastBuildDate>
     <atom:link href="https://digital-austria.at/tags/coderdojo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Informationen für Eltern</title>
@@ -61,6 +61,13 @@
       <pubDate>Fri, 30 Dec 2022 08:58:46 +0100</pubDate>
       <guid>https://digital-austria.at/dojos/wien/</guid>
       <description>CoderDojo is a club for kids and teens who want to learn programming and have fun.</description>
+    </item>
+    <item>
+      <title>Austrian Danube Camp - Mission CoderDojo Hackathon</title>
+      <link>https://digital-austria.at/projects/danubecamp-2024/</link>
+      <pubDate>Sat, 06 Jul 2024 21:47:00 +0200</pubDate>
+      <guid>https://digital-austria.at/projects/danubecamp-2024/</guid>
+      <description>Future Skills at work</description>
     </item>
     <item>
       <title>Wiener Ehrenamtswoche 2023</title>
