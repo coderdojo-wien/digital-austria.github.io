@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Jugendliche on digital.austria</title>
+    <title>jugendliche on digital.austria</title>
     <link>https://digital-austria.at/tags/jugendliche/</link>
-    <description>Recent content in Jugendliche on digital.austria</description>
+    <description>Recent content in jugendliche on digital.austria</description>
     <image>
       <title>digital.austria</title>
       <url>https://digital-austria.at/img/digital.austria_transparent.png</url>
       <link>https://digital-austria.at/img/digital.austria_transparent.png</link>
     </image>
-    <generator>Hugo -- 0.128.2</generator>
+    <generator>Hugo -- 0.122.0</generator>
     <language>de-at</language>
     <lastBuildDate>Sun, 19 Mar 2023 00:22:37 +0100</lastBuildDate>
     <atom:link href="https://digital-austria.at/tags/jugendliche/index.xml" rel="self" type="application/rss+xml" />
