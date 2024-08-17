@@ -15,13 +15,13 @@
     {
         "startdate": "2024-08-31T16:00:00+0200",
         "enddate": "2024-08-31T18:00:00+0200",
-        "eventname": "CoderDojo Tulln August '24",
+        "eventname": "CoderDojo Tulln August '24 Playground",
         "organizer" : "digital.austria",
         "organizerurl": "https://digital-austria.at",
         "location": "HAK Tulln",
         "address": "Donaulände 64, 3430 Tulln",
-        "sessionname": "Termin noch nicht bestätigt",
-        "sessionlink": "",
+        "sessionname": "Anmelden",
+        "sessionlink": "https://www.eventbrite.at/e/coderdojo-tulln-august-24-playground-registrierung-996828198977",
         "image": "/img/event/tulln.jpg",
         "type" : "onsite"
     }
