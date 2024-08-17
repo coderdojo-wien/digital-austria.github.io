@@ -1,0 +1,24 @@
+services:
+  # hugo:
+  #   image: "peaceiris/hugo:v${HUGO_VERSION}"
+  #   # image: peaceiris/hugo:v${HUGO_VERSION}-mod   # Hugo Modules
+  #   # image: peaceiris/hugo:v${HUGO_VERSION}-full  # Hugo Modules and Node.js
+  #   ports:
+  #     - 1313:1313
+  #   volumes:
+  #     - ${PWD}:/src
+  #   command:
+  #     - server
+  #     - --bind=0.0.0.0
+  #     - --buildDrafts
+  
+  hugo:
+    image: hugomods/hugo:${HUGO_VERSION}
+    ports:
+      - 1313:1313
+    volumes:
+      - ${PWD}:/src
+    command: hugo
+      - server
+      - --bind=0.0.0.0
+      - --buildDrafts
