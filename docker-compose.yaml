@@ -17,7 +17,7 @@ services:
     ports:
       - 1313:1313
     volumes:
-      - ${PWD}:/src
+      - ${CURRENT_DIR}:/src
     command: hugo
       - server
       - --bind=0.0.0.0
