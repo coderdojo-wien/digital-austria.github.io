@@ -1,18 +1,5 @@
 [
     {
-        "startdate": "2024-07-19T16:00:00+0200",
-        "enddate": "2024-07-19T18:00:00+0200",
-        "eventname": "CoderDojo Wien",
-        "organizer" : "digital.austria",
-        "organizerurl": "https://digital-austria.at",
-        "location": "Verbund",
-        "address": "Am Hof 6a, 1010 Wien",
-        "sessionname": "Anmelden",
-        "sessionlink": "https://www.eventbrite.at/e/coderdojo-wien-at-verbund-am-19-juli-24-registrierung-924229985767?aff=web",
-        "image": "/img/event/wien.jpg",
-        "type" : "onsite"
-    },
-    {
         "startdate": "2024-08-31T16:00:00+0200",
         "enddate": "2024-08-31T18:00:00+0200",
         "eventname": "CoderDojo Tulln August '24 Playground",
@@ -23,6 +10,19 @@
         "sessionname": "Anmelden",
         "sessionlink": "https://www.eventbrite.at/e/coderdojo-tulln-august-24-playground-registrierung-996828198977",
         "image": "/img/event/tulln.jpg",
+        "type" : "onsite"
+    },
+    {
+        "startdate": "2024-09-06T16:00:00+0200",
+        "enddate": "2024-09-06T18:00:00+0200",
+        "eventname": "CoderDojo Wien",
+        "organizer" : "digital.austria",
+        "organizerurl": "https://digital-austria.at",
+        "location": "Verbund",
+        "address": "Am Hof 6a, 1010 Wien",
+        "sessionname": "Anmelden",
+        "sessionlink": "https://www.eventbrite.at/e/coderdojo-wien-at-verbund-am-6-september-24-registrierung-930160534197",
+        "image": "/img/event/wien.jpg",
         "type" : "onsite"
     }
 ]
