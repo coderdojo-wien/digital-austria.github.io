@@ -1,18 +1,5 @@
 [
     {
-        "startdate": "2024-09-20T16:00:00+0200",
-        "enddate": "2024-09-20T18:00:00+0200",
-        "eventname": "CoderDojo Wien",
-        "organizer" : "digital.austria",
-        "organizerurl": "https://digital-austria.at",
-        "location": "Verbund",
-        "address": "Am Hof 6a, 1010 Wien",
-        "sessionname": "Anmelden",
-        "sessionlink": "https://www.eventbrite.at/e/coderdojo-wien-at-verbund-am-20-september-24-registrierung-942374727177",
-        "image": "/img/event/wien.jpg",
-        "type" : "onsite"
-    },
-    {
         "startdate": "2024-09-27T16:00:00+0200",
         "enddate": "2024-09-27T18:00:00+0200",
         "eventname": "CoderDojo Tulln",
@@ -39,8 +26,8 @@
         "type" : "onsite"
     },
     {
-        "startdate": "2024-10-18T16:00:00+0100",
-        "enddate": "2024-10-18T18:00:00+0100",
+        "startdate": "2024-10-18T16:00:00+0200",
+        "enddate": "2024-10-18T18:00:00+0200",
         "eventname": "CoderDojo Tulln",
         "organizer" : "digital.austria",
         "organizerurl": "https://digital-austria.at",
@@ -52,15 +39,28 @@
         "type" : "onsite"
     },
     {
-        "startdate": "2024-11-22T16:00:00+0200",
-        "enddate": "2024-11-22T18:00:00+0200",
+        "startdate": "2024-10-18T16:00:00+0200",
+        "enddate": "2024-10-18T18:00:00+0200",
+        "eventname": "CoderDojo Wien",
+        "organizer" : "digital.austria",
+        "organizerurl": "https://digital-austria.at",
+        "location": "Verbund",
+        "address": "Am Hof 6a, 1010 Wien",
+        "sessionname": "Anmelden",
+        "sessionlink": "https://www.eventbrite.at/e/wien-at-verbund-halloween-special-am-18-oktober-24-registrierung-1028256100677",
+        "image": "/img/event/wien.jpg",
+        "type" : "onsite"
+    },
+    {
+        "startdate": "2024-11-22T16:00:00+0100",
+        "enddate": "2024-11-22T18:00:00+0100",
         "eventname": "CoderDojo Tulln",
         "organizer" : "digital.austria",
         "organizerurl": "https://digital-austria.at",
         "location": "HAK Tulln",
         "address": "Donaulände 64, 3430 Tulln",
-        "sessionname": "Anmelden",
-        "sessionlink": "https://www.eventbrite.at/e/coderdojo-tulln-november-registrierung-1015121374357",
+        "sessionname": "Angekündigt",
+        "sessionlink": "",
         "image": "/img/event/tulln.jpg",
         "type" : "onsite"
     }
