@@ -20,8 +20,8 @@
         "organizerurl": "https://digital-austria.at",
         "location": "Verbund",
         "address": "Am Hof 6a, 1010 Wien",
-        "sessionname": "Angekündigt",
-        "sessionlink": "",
+        "sessionname": "Anmelden",
+        "sessionlink": "https://www.eventbrite.at/e/coderdojo-wien-at-verbund-am-15-november-24-registrierung-1051345732387",
         "image": "/img/event/wien.jpg",
         "type" : "onsite"
     },
