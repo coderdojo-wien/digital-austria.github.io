@@ -11,13 +11,20 @@
     </image>
     <generator>Hugo -- 0.122.0</generator>
     <language>de-at</language>
-    <lastBuildDate>Thu, 05 Dec 2024 20:34:47 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 28 Mar 2025 15:42:15 +0100</lastBuildDate>
     <atom:link href="https://digital-austria.at/categories/verein/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Über uns</title>
       <link>https://digital-austria.at/page/about/</link>
       <pubDate>Wed, 17 May 2023 21:15:00 +0200</pubDate>
       <guid>https://digital-austria.at/page/about/</guid>
+      <description>Das CoderDojo ist ein Club für Kinder und Jugendliche, die programmieren lernen und Spaß haben wollen</description>
+    </item>
+    <item>
+      <title>Über uns</title>
+      <link>https://digital-austria.at/page/kispecial/</link>
+      <pubDate>Wed, 17 May 2023 21:15:00 +0200</pubDate>
+      <guid>https://digital-austria.at/page/kispecial/</guid>
       <description>Das CoderDojo ist ein Club für Kinder und Jugendliche, die programmieren lernen und Spaß haben wollen</description>
     </item>
     <item>
