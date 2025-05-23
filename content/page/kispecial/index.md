@@ -17,4 +17,4 @@ weight: 10
 
 ## CoderDojo KI Special
 
-[PwPusher](https://pwpush.com/p/3wlctivsh_itdlbhzck/r)
+[PwPusher](https://pwpush.com/p/kfeqgw_gmo7_0beh/r)
