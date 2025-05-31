@@ -1,40 +1,14 @@
 [
     {
-        "startdate": "2025-05-16T16:00:00+0100",
-        "enddate": "2025-05-16T18:00:00+0100",
+        "startdate": "2025-06-13T16:00:00+0200",
+        "enddate": "2025-06-13T18:00:00+0200",
         "eventname": "CoderDojo Wien",
         "organizer" : "digital.austria",
         "organizerurl": "https://digital-austria.at",
         "location": "Verbund",
         "address": "Am Hof 6a, 1010 Wien",
         "sessionname": "Anmelden",
-        "sessionlink": "https://www.eventbrite.at/e/coderdojo-wien-at-verbund-am-16-mai-2025-registrierung-1096180026969?aff=web",
-        "image": "/img/event/wien.jpg",
-        "type" : "onsite"
-    },
-    {
-        "startdate": "2025-05-23T16:00:00+0200",
-        "enddate": "2025-05-23T18:00:00+0200",
-        "eventname": "CoderDojo Tulln",
-        "organizer" : "digital.austria",
-        "organizerurl": "https://digital-austria.at",
-        "location": "HAK Tulln",
-        "address": "Donaulände 64, 3430 Tulln",
-        "sessionname": "Anmelden",
-        "sessionlink": "https://www.eventbrite.at/e/coderdojo-tulln-mai-tickets-1338136836299?aff=web",
-        "image": "/img/event/tulln.jpg",
-        "type" : "onsite"
-    },
-    {
-        "startdate": "2025-05-30T16:00:00+0200",
-        "enddate": "2025-05-30T18:00:00+0200",
-        "eventname": "CoderDojo Wien",
-        "organizer" : "digital.austria",
-        "organizerurl": "https://digital-austria.at",
-        "location": "Verbund",
-        "address": "Am Hof 6a, 1010 Wien",
-        "sessionname": "Anmelden",
-        "sessionlink": "https://www.eventbrite.at/e/coderdojo-wien-at-verbund-am-30-mai-2025-registrierung-1331490777759?aff=web",
+        "sessionlink": "https://www.eventbrite.at/e/coderdojo-wien-at-verbund-am-13-juni-2025-registrierung-1368198371159?aff=oddtdtcreator?aff=web",
         "image": "/img/event/wien.jpg",
         "type" : "onsite"
     },
@@ -52,16 +26,55 @@
         "type" : "onsite"
     },
     {
-        "startdate": "2025-06-13T16:00:00+0200",
-        "enddate": "2025-06-13T18:00:00+0200",
+        "startdate": "2025-06-27T16:00:00+0100",
+        "enddate": "2025-06-27T18:00:00+0100",
         "eventname": "CoderDojo Wien",
         "organizer" : "digital.austria",
         "organizerurl": "https://digital-austria.at",
         "location": "Verbund",
         "address": "Am Hof 6a, 1010 Wien",
         "sessionname": "Anmelden",
-        "sessionlink": "https://www.eventbrite.at/e/coderdojo-wien-at-verbund-am-13-juni-2025-registrierung-1368198371159?aff=oddtdtcreator?aff=web",
+        "sessionlink": "https://www.eventbrite.at/e/coderdojo-wien-at-verbund-am-27-juni-2025-registrierung-1383392386869?aff=web",
         "image": "/img/event/wien.jpg",
+        "type" : "onsite"
+    },
+    {
+        "startdate": "2025-07-11T16:00:00+0200",
+        "enddate": "2025-07-11T18:00:00+0200",
+        "eventname": "CoderDojo Wien",
+        "organizer" : "digital.austria",
+        "organizerurl": "https://digital-austria.at",
+        "location": "Verbund",
+        "address": "Am Hof 6a, 1010 Wien",
+        "sessionname": "Anmelden",
+        "sessionlink": "",
+        "image": "/img/event/wien.jpg",
+        "type" : "onsite"
+    },
+    {
+        "startdate": "2025-07-25T16:00:00+0200",
+        "enddate": "2025-07-25T18:00:00+0200",
+        "eventname": "CoderDojo Wien",
+        "organizer" : "digital.austria",
+        "organizerurl": "https://digital-austria.at",
+        "location": "Verbund",
+        "address": "Am Hof 6a, 1010 Wien",
+        "sessionname": "Anmelden",
+        "sessionlink": "",
+        "image": "/img/event/wien.jpg",
+        "type" : "onsite"
+    },
+    {
+        "startdate": "2025-08-18T16:00:00+0200",
+        "enddate": "2025-08-18T18:00:00+0200",
+        "eventname": "Kinder UNI Tulln",
+        "organizer" : "digital.austria",
+        "organizerurl": "https://digital-austria.at",
+        "location": "Garten Tulln",
+        "address": "Am Wasserpark 1, 3430 Tulln",
+        "sessionname": "Anmelden",
+        "sessionlink": "https://www.naturimgarten.at/kinderuni-tulln-2.html?aff=web",
+        "image": "/img/event/tulln.jpg",
         "type" : "onsite"
     }
 ]
