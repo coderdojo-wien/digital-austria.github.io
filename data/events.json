@@ -1,31 +1,5 @@
 [
     {
-        "startdate": "2025-10-03T16:00:00+0100",
-        "enddate": "2025-10-03T18:00:00+0100",
-        "eventname": "CoderDojo Wien",
-        "organizer" : "digital.austria",
-        "organizerurl": "https://digital-austria.at",
-        "location": "Verbund",
-        "address": "Am Hof 6a, 1010 Wien",
-        "sessionname": "Anmelden",
-        "sessionlink": "https://www.eventbrite.at/e/coderdojo-wien-at-verbund-am-3-oktober-2025-registrierung-1670557224629?aff=web",
-        "image": "/img/event/wien.jpg",
-        "type" : "onsite"
-    },
-    {
-        "startdate": "2025-10-17T16:00:00+0200",
-        "enddate": "2025-10-17T18:00:00+0200",
-        "eventname": "CoderDojo Wien at PWC (DC Tower One)",
-        "organizer" : "digital.austria",
-        "organizerurl": "https://digital-austria.at",
-        "location": "Verbund",
-        "address": "Am Hof 6a, 1010 Wien",
-        "sessionname": "Anmelden",
-        "sessionlink": "https://www.eventbrite.at/e/coderdojo-wien-at-pwc-am-17-oktober-2025-registrierung-1670559551589?aff=web",
-        "image": "/img/event/wien.jpg",
-        "type" : "onsite"
-    },
-    {
         "startdate": "2025-10-24T16:00:00+0200",
         "enddate": "2025-10-24T18:00:00+0200",
         "eventname": "CoderDojo Tulln",
@@ -44,8 +18,8 @@
         "eventname": "CoderDojo Wien at Hauptbücherei am Gürtel",
         "organizer" : "digital.austria",
         "organizerurl": "https://digital-austria.at",
-        "location": "Verbund",
-        "address": "Am Hof 6a, 1010 Wien",
+        "location": "Hauptbücherei am Gürtel",
+        "address": "Urban-Loritz-Platz 2a, 1070 Wien",
         "sessionname": "Anmelden",
         "sessionlink": "https://www.eventbrite.at/e/coderdojo-wien-at-hauptbucherei-am-gurtel-am-31-oktober-2025-registrierung-1704850827719?aff=web",
         "image": "/img/event/wien.jpg",
@@ -62,6 +36,19 @@
         "sessionname": "Anmelden",
         "sessionlink": "",
         "image": "/img/event/tulln.jpg",
+        "type" : "onsite"
+    },
+    {
+        "startdate": "2025-11-14T16:00:00+0100",
+        "enddate": "2025-11-14T18:00:00+0100",
+        "eventname": "CoderDojo Wien",
+        "organizer" : "digital.austria",
+        "organizerurl": "https://digital-austria.at",
+        "location": "Verbund",
+        "address": "Am Hof 6a, 1010 Wien",
+        "sessionname": "Anmelden",
+        "sessionlink": "",
+        "image": "/img/event/wien.jpg",
         "type" : "onsite"
     }
 ]
