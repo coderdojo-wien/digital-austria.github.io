@@ -1,44 +1,5 @@
 [
     {
-        "startdate": "2025-12-12T16:00:00+0100",
-        "enddate": "2025-12-12T18:00:00+0100",
-        "eventname": "CoderDojo Wien",
-        "organizer" : "digital.austria",
-        "organizerurl": "https://digital-austria.at",
-        "location": "Verbund",
-        "address": "Am Hof 6a, 1010 Wien",
-        "sessionname": "Anmelden",
-        "sessionlink": "https://www.eventbrite.at/e/coderdojo-wien-at-verbund-am-14-november-2025-registrierung-1851026292469?aff=web",
-        "image": "/img/event/wien.jpg",
-        "type" : "onsite"
-    },
-    {
-        "startdate": "2025-12-19T16:00:00+0100",
-        "enddate": "2025-12-19T18:00:00+0100",
-        "eventname": "Weihnachtswerkstatt Tulln",
-        "organizer" : "digital.austria",
-        "organizerurl": "https://digital-austria.at",
-        "location": "edu-Makerspace Tulln",
-        "address": "Frauentorgasse 72-74, 3430 Tulln",
-        "sessionname": "Anmelden",
-        "sessionlink": "https://www.eventbrite.at/e/weihnachtswerkstatt-by-coderdojo-tulln-und-technologykids-tickets-1976763055512?aff=web",
-        "image": "/img/event/tulln.jpg",
-        "type" : "onsite"
-    },
-    {
-        "startdate": "2025-12-26T16:00:00+0100",
-        "enddate": "2025-12-26T18:00:00+0100",
-        "eventname": "CoderDojo Wien",
-        "organizer" : "digital.austria",
-        "organizerurl": "https://digital-austria.at",
-        "location": "Verbund",
-        "address": "Am Hof 6a, 1010 Wien",
-        "sessionname": "Anmelden",
-        "sessionlink": "https://www.eventbrite.at/e/coderdojo-wien-at-verbund-am-26-dezember-2025-registrierung-1971078137770?aff=web",
-        "image": "/img/event/wien.jpg",
-        "type" : "onsite"
-    },
-    {
         "startdate": "2026-01-09T16:00:00+0100",
         "enddate": "2026-01-09T18:00:00+0100",
         "eventname": "CoderDojo Wien",
@@ -60,7 +21,7 @@
         "location": "HAK Tulln",
         "address": "Donaulände 64, 3430 Tulln",
         "sessionname": "Anmelden",
-        "sessionlink": "",
+        "sessionlink": "https://www.eventbrite.at/e/coderdojo-tulln-janner-26-tickets-1979854394791?aff=web",
         "image": "/img/event/wien.jpg",
         "type" : "onsite"
     }
