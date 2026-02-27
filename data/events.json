@@ -1,31 +1,5 @@
 [
     {
-        "startdate": "2026-02-20T16:00:00+0100",
-        "enddate": "2026-02-20T18:00:00+0100",
-        "eventname": "CoderDojo Wien",
-        "organizer" : "digital.austria",
-        "organizerurl": "https://digital-austria.at",
-        "location": "Verbund",
-        "address": "Am Hof 6a, 1010 Wien",
-        "sessionname": "Anmelden",
-        "sessionlink": "https://www.eventbrite.at/e/coderdojo-wien-at-verbund-am-20-februar-2026-registrierung-1981087427826?aff=web",
-        "image": "/img/event/wien.jpg",
-        "type" : "onsite"
-    },
-    {
-        "startdate": "2026-02-27T16:00:00+0100",
-        "enddate": "2026-02-27T18:00:00+0100",
-        "eventname": "CoderDojo Tulln",
-        "organizer" : "digital.austria",
-        "organizerurl": "https://digital-austria.at",
-        "location": "HAK Tulln",
-        "address": "Donaulände 64, 3430 Tulln",
-        "sessionname": "Anmelden",
-        "sessionlink": "https://www.eventbrite.at/e/coderdojo-tulln-februar-26-tickets-1982863722772?aff=web",
-        "image": "/img/event/wien.jpg",
-        "type" : "onsite"
-    },
-    {
         "startdate": "2026-03-06T16:00:00+0100",
         "enddate": "2026-03-06T18:00:00+0100",
         "eventname": "CoderDojo Wien",
@@ -60,7 +34,20 @@
         "location": "HAK Tulln",
         "address": "Donaulände 64, 3430 Tulln",
         "sessionname": "Anmelden",
-        "sessionlink": "",
+        "sessionlink": "https://www.eventbrite.at/e/coderdojo-tulln-marz-26-tickets-1984154645958?aff=web",
+        "image": "/img/event/tulln.jpg",
+        "type" : "onsite"
+    },
+    {
+        "startdate": "2026-04-03T16:00:00+0100",
+        "enddate": "2026-04-03T18:00:00+0100",
+        "eventname": "CoderDojo Wien",
+        "organizer" : "digital.austria",
+        "organizerurl": "https://digital-austria.at",
+        "location": "Verbund",
+        "address": "Am Hof 6a, 1010 Wien",
+        "sessionname": "Anmelden",
+        "sessionlink": "https://www.eventbrite.de/e/coderdojo-wien-at-verbund-am-3-april-2026-registrierung-1983605685001?aff=web",
         "image": "/img/event/wien.jpg",
         "type" : "onsite"
     },
@@ -73,8 +60,8 @@
         "location": "HAK Tulln",
         "address": "Donaulände 64, 3430 Tulln",
         "sessionname": "Anmelden",
-        "sessionlink": "",
-        "image": "/img/event/wien.jpg",
+        "sessionlink": "https://www.eventbrite.at/e/coderdojo-tulln-april-26-tickets-1984155142443?aff=web",
+        "image": "/img/event/tulln.jpg",
         "type" : "onsite"
     },
     {
@@ -87,7 +74,7 @@
         "address": "Donaulände 64, 3430 Tulln",
         "sessionname": "Anmelden",
         "sessionlink": "",
-        "image": "/img/event/wien.jpg",
+        "image": "/img/event/tulln.jpg",
         "type" : "onsite"
     },
     {
@@ -100,7 +87,7 @@
         "address": "Donaulände 64, 3430 Tulln",
         "sessionname": "Anmelden",
         "sessionlink": "",
-        "image": "/img/event/wien.jpg",
+        "image": "/img/event/tulln.jpg",
         "type" : "onsite"
     }
 ]
