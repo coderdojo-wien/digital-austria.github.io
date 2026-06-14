@@ -1,70 +1,5 @@
 [
     {
-        "startdate": "2026-04-24T16:00:00+0200",
-        "enddate": "2026-04-24T18:00:00+0200",
-        "eventname": "CoderDojo Tulln",
-        "organizer" : "digital.austria",
-        "organizerurl": "https://digital-austria.at",
-        "location": "HAK Tulln",
-        "address": "Donaulände 64, 3430 Tulln",
-        "sessionname": "Anmelden",
-        "sessionlink": "https://www.eventbrite.at/e/coderdojo-tulln-april-26-tickets-1984155142443?aff=web",
-        "image": "/img/event/tulln.jpg",
-        "type" : "onsite"
-    },
-    {
-        "startdate": "2026-04-29T16:00:00+0100",
-        "enddate": "2026-04-29T18:00:00+0100",
-        "eventname": "CoderDojo Wien",
-        "organizer" : "digital.austria",
-        "organizerurl": "https://digital-austria.at",
-        "location": "Verbund",
-        "address": "Am Hof 6a, 1010 Wien",
-        "sessionname": "Anmelden",
-        "sessionlink": "https://www.eventbrite.de/e/coderdojo-wien-at-verbund-am-29-april-2026-registrierung-1984227174894?aff=web",
-        "image": "/img/event/wien.jpg",
-        "type" : "onsite"
-    },
-    {
-        "startdate": "2026-05-15T16:00:00+0100",
-        "enddate": "2026-05-15T18:00:00+0100",
-        "eventname": "CoderDojo Wien",
-        "organizer" : "digital.austria",
-        "organizerurl": "https://digital-austria.at",
-        "location": "Verbund",
-        "address": "Am Hof 6a, 1010 Wien",
-        "sessionname": "Anmelden",
-        "sessionlink": "https://www.eventbrite.de/e/coderdojo-wien-at-verbund-am-15-mai-2026-registrierung-1984227346407?aff=web",
-        "image": "/img/event/wien.jpg",
-        "type" : "onsite"
-    },
-    {
-        "startdate": "2026-05-22T16:00:00+0200",
-        "enddate": "2026-05-22T18:00:00+0200",
-        "eventname": "CoderDojo Tulln",
-        "organizer" : "digital.austria",
-        "organizerurl": "https://digital-austria.at",
-        "location": "HAK Tulln",
-        "address": "Donaulände 64, 3430 Tulln",
-        "sessionname": "Anmelden",
-        "sessionlink": "https://www.eventbrite.at/e/coderdojo-tulln-mai-26-tickets-1984175049987?aff=web",
-        "image": "/img/event/tulln.jpg",
-        "type" : "onsite"
-    },
-    {
-        "startdate": "2026-05-29T16:00:00+0100",
-        "enddate": "2026-05-29T18:00:00+0100",
-        "eventname": "CoderDojo Wien",
-        "organizer" : "digital.austria",
-        "organizerurl": "https://digital-austria.at",
-        "location": "Verbund",
-        "address": "Am Hof 6a, 1010 Wien",
-        "sessionname": "Anmelden",
-        "sessionlink": "https://www.eventbrite.de/e/coderdojo-wien-at-verbund-am-29-mai-2026-registrierung-1987689810731?aff=web",
-        "image": "/img/event/wien.jpg",
-        "type" : "onsite"
-    },
-    {
         "startdate": "2026-06-19T16:00:00+0200",
         "enddate": "2026-06-19T18:00:00+0200",
         "eventname": "CoderDojo Tulln",
@@ -75,6 +10,45 @@
         "sessionname": "Anmelden",
         "sessionlink": "https://www.eventbrite.at/e/coderdojo-tulln-juni-26-tickets-1984175086095?aff=oddtdtcreator",
         "image": "/img/event/tulln.jpg",
+        "type" : "onsite"
+    },
+    {
+        "startdate": "2026-06-26T16:00:00+0200",
+        "enddate": "2026-06-26T18:00:00+0200",
+        "eventname": "CoderDojo Wien",
+        "organizer" : "digital.austria",
+        "organizerurl": "https://digital-austria.at",
+        "location": "Verbund",
+        "address": "Am Hof 6a, 1010 Wien",
+        "sessionname": "Anmelden",
+        "sessionlink": "https://www.eventbrite.de/e/coderdojo-wien-at-verbund-am-26-juni-2026-registrierung-1989816553877?aff=web",
+        "image": "/img/event/wien.jpg",
+        "type" : "onsite"
+    },
+    {
+        "startdate": "2026-07-10T16:00:00+0200",
+        "enddate": "2026-07-10T18:00:00+0200",
+        "eventname": "CoderDojo Wien",
+        "organizer" : "digital.austria",
+        "organizerurl": "https://digital-austria.at",
+        "location": "Verbund",
+        "address": "Am Hof 6a, 1010 Wien",
+        "sessionname": "Anmelden",
+        "sessionlink": "https://www.eventbrite.de/e/coderdojo-wien-at-verbund-am-10-juli-2026-registrierung-1990681391630?aff=web",
+        "image": "/img/event/wien.jpg",
+        "type" : "onsite"
+    },
+    {
+        "startdate": "2026-07-24T16:00:00+0200",
+        "enddate": "2026-07-24T18:00:00+0200",
+        "eventname": "CoderDojo Wien",
+        "organizer" : "digital.austria",
+        "organizerurl": "https://digital-austria.at",
+        "location": "Verbund",
+        "address": "Am Hof 6a, 1010 Wien",
+        "sessionname": "Anmelden",
+        "sessionlink": "https://www.eventbrite.de/e/coderdojo-wien-at-verbund-am-24-juli-2026-registrierung-1991814721450?aff=web",
+        "image": "/img/event/wien.jpg",
         "type" : "onsite"
     }
 ]
