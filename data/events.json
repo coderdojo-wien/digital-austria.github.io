@@ -1,31 +1,5 @@
 [
     {
-        "startdate": "2026-09-18T16:00:00+0200",
-        "enddate": "2026-09-18T18:00:00+0200",
-        "eventname": "CoderDojo Tulln",
-        "organizer" : "digital.austria",
-        "organizerurl": "https://digital-austria.at",
-        "location": "HAK Tulln",
-        "address": "Donaulände 64, 3430 Tulln",
-        "sessionname": "Anmelden",
-        "sessionlink": "https://www.eventbrite.at/e/coderdojo-tulln-september-26-tickets-1999847312145?aff=web",
-        "image": "/img/event/tulln.jpg",
-        "type" : "onsite"
-    },
-    {
-        "startdate": "2026-09-18T16:00:00+0200",
-        "enddate": "2026-09-18T18:00:00+0200",
-        "eventname": "CoderDojo Wien",
-        "organizer" : "digital.austria",
-        "organizerurl": "https://digital-austria.at",
-        "location": "Verbund",
-        "address": "Am Hof 6a, 1010 Wien",
-        "sessionname": "Anmelden",
-        "sessionlink": "https://www.eventbrite.at/e/coderdojo-wien-at-verbund-am-18-september-2026-registrierung-1998369798863?aff=web",
-        "image": "/img/event/wien.jpg",
-        "type" : "onsite"
-    },
-    {
         "startdate": "2026-10-02T16:00:00+0200",
         "enddate": "2026-10-02T18:00:00+0200",
         "eventname": "CoderDojo Wien",
@@ -60,7 +34,7 @@
         "location": "HAK Tulln",
         "address": "Donaulände 64, 3430 Tulln",
         "sessionname": "Anmelden",
-        "sessionlink": "",
+        "sessionlink": "https://www.eventbrite.at/e/copy-of-coderdojo-tulln-oktober-26-tickets-2001639161615?aff=web",
         "image": "/img/event/tulln.jpg",
         "type" : "onsite"
     },
