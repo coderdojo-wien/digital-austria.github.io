@@ -25,10 +25,14 @@ Source of the website for "digital.austria – Verein zur Förderung der Informa
 Without Compose:
 
     . ./.env
-    docker run -it --rm -p 1313:1313 -v "$PWD":/src \
-      docker.io/hugomods/hugo:exts-${HUGO_VERSION} hugo server --bind 0.0.0.0 --buildDrafts
+    docker run -it --rm -p 1313:1313 -v "$PWD":/project \
+      ghcr.io/gohugoio/hugo:v${HUGO_VERSION} server --bind 0.0.0.0 --buildDrafts
+
+The official image is the extended edition and its entrypoint is `hugo`, so pass only the arguments.
 
 `--bind 0.0.0.0` is required inside a container (`-b` is `--baseURL`, not `--bind`); without it the server isn't reachable from the host or Windows. A local Hugo works too: `hugo server --buildDrafts`, using the version from `.env`.
+
+In a `git worktree`, `.git` is a file pointing outside the mount and `enableGitInfo` fails in the container; also mount the main repo's `.git` at its host path.
 
 `public/` and `resources/_gen/` are generated; never commit them.
 

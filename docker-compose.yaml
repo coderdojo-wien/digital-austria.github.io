@@ -7,20 +7,20 @@
 #   UID, GID        host user the container runs as (default 1000:1000)
 services:
   hugo:
-    # exts = extended edition (WebP, SCSS), same flavour as CI; pinned to HUGO_VERSION
-    image: docker.io/hugomods/hugo:exts-${HUGO_VERSION}
+    # Official image: extended edition (WebP, SCSS), same flavour as CI;
+    # pinned to HUGO_VERSION. Its entrypoint runs hugo, so command holds only the arguments
+    image: ghcr.io/gohugoio/hugo:v${HUGO_VERSION}
     # Run as the host user so files written to the bind mount (resources/_gen,
     # .hugo_build.lock) aren't owned by root and git trusts the repo (enableGitInfo)
     user: "${UID:-1000}:${GID:-1000}"
     init: true # forward Ctrl+C to hugo
     tty: true
-    working_dir: /src
+    working_dir: /project
     ports:
       - "${HUGO_BIND:-127.0.0.1}:${HUGO_PORT:-1313}:1313"
     volumes:
-      - .:/src
+      - .:/project
     command:
-      - hugo
       - server
       - --bind=0.0.0.0
       - --port=1313
