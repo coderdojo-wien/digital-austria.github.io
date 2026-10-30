@@ -3,7 +3,7 @@
     <div class="post-content">
         <h2>Termine</h2>
             <dl>
-              {{ $events := $.Site.Data.events }} {{ range $events }}
+              {{ $events := hugo.Data.events }} {{ range $events }}
               <dt itemprop="event" itemscope itemtype="https://schema.org/Event">
                 <meta itemprop="eventAttendanceMode" content="https://schema.org/OfflineEventAttendanceMode" />
                 <meta itemprop="eventStatus" content="https://schema.org/EventScheduled" />
