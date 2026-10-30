@@ -46,7 +46,7 @@
         {{ if hugo.IsProduction | or (eq .Site.Params.env "production") }}
         
         // Initialize Google Analytics
-        {{ with .Site.GoogleAnalytics -}}
+        {{ with .Site.Config.Services.GoogleAnalytics.ID -}}
         {{ if hasPrefix . "G-"}}
             function loadScriptAsync(scriptSrc, callback) {
                 if (typeof callback !== 'function') {

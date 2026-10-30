@@ -1,11 +1,15 @@
 baseURL: "https://digital-austria.at/"
-languageCode: "de-at"
+locale: "de-at"
 defaultContentLanguage: "de"
 defaultContentLang: "de"
 title: "digital.austria"
 # copyright: "https://digital-austria.at/"
-paginate: 5
+pagination:
+  pagerSize: 5
 theme: PaperMod
+
+# Keep taxonomy terms (tags/categories) in their original lower case, as before Hugo 0.123
+capitalizeListTitles: false
 
 enableGitInfo: true
 enableRobotsTXT: true
@@ -13,11 +17,21 @@ enableRobotsTXT: true
 # buildFuture: false
 # buildExpired: false
 
-# googleAnalytics: G-P3R7P2EW0F
+# services:
+#   googleAnalytics:
+#     ID: G-P3R7P2EW0F
+
+# Google Analytics may only be loaded through the cookie consent partial
+# (layouts/_partials/cookie-consent.html); keep PaperMod's head from injecting
+# Hugo's built-in GA snippet (replaces the former layouts/partials/head.html override).
+privacy:
+  googleAnalytics:
+    disable: true
 
 minify:
   disableXML: true
-  minifyOutput: false
+  # minifyOutput is deliberately not set: with Hugo 0.169 an explicit
+  # "minifyOutput: false" overrides the --minify flag used by CI.
 
 params:
   # env: production # to enable google analytics, opengraph, twitter-cards and schema.
