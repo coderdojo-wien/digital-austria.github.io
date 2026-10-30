@@ -1,0 +1,5 @@
+/* Profile sub-images (CoderDojo logos): side by side and not cropped to a circle */
+.profile img {
+    display: inline-table;
+    border-radius: 0;
+}
